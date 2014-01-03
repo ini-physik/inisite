@@ -1,0 +1,61 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:300,400,700,900);
+
+#hello {
+	 width: 100%;
+	 padding-top: 150;
+	 padding-bottom: 150px;
+}
+
+ #hello h1 {
+	 color: #F781F3;
+}
+
+#protocol {
+	background-color: #F781F3;
+	color: #FFFFFF;
+}
+
+#protocol h2, h3 {
+	color: #FFFFFF;
+}
+
+#document-img {
+	height: 50%;
+	width: auto;
+}
+
+#atomic {
+	background-color: #F3F781;
+}
+
+#atomic .container {
+	background-image: url(../img/atomic-bg.png);
+	background-repeat: no-repeat;
+	background-position: 10% bottom;
+	padding: 20px;
+}
+
+#atomic img {
+	padding: 40px;
+}
+
+#calendar {
+	display: none;
+}
+
+.overview {
+	margin-bottom: 25px;
+}
+
+h1, h2, h3, h4, h5{
+	font-family: 'Lato', sans-serif;
+}
+
+body {
+	font-family: 'Lato', sans-serif !important;
+	font-weight: 400;
+	font-size: 20px;
+	color: #555;
+	-webkit-font-smoothing: antialiased;
+	background-color: #f2f2f2;
+}
