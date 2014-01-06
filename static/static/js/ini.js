@@ -4,6 +4,16 @@ function parseCustomToUTC(s) {
     return (date.setUTCSeconds(0));
 }
 
+(function($) {
+	    $.fn.goTo = function() {
+	         $('html, body').animate({
+	         scrollTop: $(this).offset().top + 'px'
+	         }, 'medium');
+        return this; // for chaining...
+   }
+})(jQuery);
+
+
 function ShowCal(data) {
     var now = (new Date()).setUTCSeconds(0);
 	var termine = data.termine;

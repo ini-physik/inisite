@@ -8,8 +8,8 @@
 #hello {
 	 width: 100%;
 	 height: 70%;
-	 padding-top: 150;
-	 padding-bottom: 150px;
+	 padding-top: 10%;
+	 padding-bottom: 10%;
 	 position: relative;
 	 z-index: 9999;
 	 background-color: #f2f2f2;
@@ -22,10 +22,15 @@
 
 #protocol {
 	background-color: #6df383;
+	padding-top: 50px;
 }
 
 #primer {
 	padding-bottom: 10%; 
+}
+
+#down-img {
+	padding-top: 50%;
 }
 
 #document-img {
@@ -71,7 +76,7 @@ body {
 }
 
 .content {
-	margin-top: 70px;
+	margin-top: 50px;
 	min-height: 100%;
 	height: auto !important;
 	height: 100%;
