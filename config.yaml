@@ -1,5 +1,6 @@
 indexes:
   tag: 'tags'
   group: 'groups'
+  gremien: 'gremien'
 baseurl: 'http://ini.physik.tu-berlin.de'
 ...

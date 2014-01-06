@@ -1,0 +1,15 @@
+{{ template "inibling/header.html" . }}
+
+{{ template "inibling/menu.html" . }}	
+
+	<div class="content">
+		{{ range $key, $value := .Site.Indexes.groups.gremien.Pages }}
+		<div id="{{ $value.RelPermalink }}" class="container gremien">
+			<h1>{{ $value.Title }}</h1>
+			{{ $value.Content }}
+		</div>
+		{{ end }}
+	<div id="push"></div>
+	</div>
+
+{{ template "inibling/footer.html" . }}
