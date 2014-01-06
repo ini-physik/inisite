@@ -68,5 +68,36 @@ body {
 	color: #555;
 	-webkit-font-smoothing: antialiased;
 	background-color: #f2f2f2;
+	height: 100%;
 }
 
+.content {
+	margin-top: 70px;
+	min-height: 100%;
+	height: auto !important;
+	height: 100%;
+	padding-bottom: 20%;
+}
+
+#push {
+	height: 4em;
+}
+
+
+#footer {
+	background-color: #333;
+	color: #f2f2f2;
+	margin-bottom: 20px;
+	padding-bottom: 100px;
+	padding-top: 20px;
+	font-size: 16px;
+}
+
+#footer a {
+  color: #f2f2f2;
+  font-size: 12px;
+}
+
+#ini-made {
+  padding: 20px;
+}
