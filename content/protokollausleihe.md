@@ -1,5 +1,6 @@
 ---
 Title:	  "Protokollausleihe"
+title_color: "#F36D6D"
 ---
 
 ## Einführung/Beschluss
@@ -10,7 +11,7 @@ Auf der INI-Sitzung vom 11.12.2012 um 18 Uhr, der Fachbereichsinitiative-Physik 
 
 Die Ausleihe findet in der Fachbereichsinitiative-Physik EW 023), neben dem Studentencafé Atomic, zu folgenden Zeiten statt:
 
-**Dienstag: 10 - 12 Uhr**
+**Derzeit nur nach vereinbarung nach vereinbarung**
 
 Diese erfolgt auch in der vorlesungsfreien Zeit
 

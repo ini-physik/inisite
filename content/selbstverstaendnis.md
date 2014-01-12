@@ -1,6 +1,7 @@
 ---
-Title:	  "Ini Selbstverständnis"
+Title:	  "Selbstverständnis"
 Slug:	  "wir"
+title_color: "#6DB8F3"
 ---
 
 Die Fachiinitiative Physik vertritt die Interessen und Wünsche der Physik und NidI Studierenden an der Technischen Universität Berlin. Sie befasst sich mit Fragen und Problemen der Ausbildung, beteiligt sich aktiv an der Gremienarbeit und engagiert sich - auch über die Grenzen unserer Universität hinweg - für eine kontinuierliche Verbesserung der Studienbedingungen.
