@@ -2,14 +2,30 @@
 
 {{ template "inibling/menu.html" . }}	
 
-	<div class="content">
-		{{ range $key, $value := .Site.Indexes.groups.gremien.Pages }}
-		<div id="{{ $value.RelPermalink }}" class="container gremien">
-			<h1>{{ $value.Title }}</h1>
-			{{ $value.Content }}
-		</div>
-		{{ end }}
+<div class="content" data-spy="scroll" data-target="ini-sidebar">
+	  <div class="container" data-spy="scroll" data-target="ini-sidebar">
+			<div class="row">
+				<div class="col-md-4 hidden-sm hidden-xs">
+					<div id="ini-sidebar" class="hidden-print affix" role="complementary">
+						<ul class="nav">
+					{{ range $key, $value := .Site.Indexes.groups.gremien.Pages }}
+							<li>
+							<a href="#{{ $value.RelPermalink }}">{{ $value.LinkTitle }}</a>
+							</li>
+					{{ end }}
+						</ul>
+					</div>
+				</div>
+				<div class="col-md-8">
+				{{ range $key, $value := .Site.Indexes.groups.gremien.Pages }}
+				  <div id="{{ $value.RelPermalink }}" class="gremien">
+					<h1>{{ $value.Title }}</h1>
+					{{ $value.Content }}
+				  </div>
+				{{ end }}
+			</div>
+	</div>
 	<div id="push"></div>
 	</div>
-
+</div>
 {{ template "inibling/footer.html" . }}

@@ -2,10 +2,14 @@
 
 {{ template "inibling/menu.html" . }}	
 
+	{{ template "inibling/titlebar.html" . }}
 	<div class="content">
 		<div class="container">
-			<h1>{{ .Title }}</h1>
-			{{ .Content }}
+			<div class="row">
+				<div class="col-md-12">
+					{{ .Content }}
+				</div>
+			</div>
 		</div>
 	<div id="push"></div>
 	</div>
