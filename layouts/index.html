@@ -9,7 +9,9 @@
 	<title>Ini Physik</title>
 
 	{{ template "inibling/include.html" . }}
-
+	<style type="text/css">
+	  #ininav { display: none; }
+	</style>
   </head>
 
   <body>
@@ -35,8 +37,8 @@
 					<p>Die Fachinitiative Physik vertritt die Interessen und Wünsche der Physik und NidI Studierenden an der Technischen Universität Berlin. Sie befasst sich mit Fragen und Problemen der Ausbildung, beteiligt sich aktiv an der Gremienarbeit und engagiert sich - auch über die Grenzen unserer Universität hinweg - für eine kontinuierliche Verbesserung der Studienbedingungen. <a href="/wir"> mehr...</a>
 					</p>
 				</div>
-				<div class="col-md-2 col-md-offset-5 centered">
-					<a href="javascript:$('#protocol').goTo()"><img id="down-img" class="img-responsive" src="static/img/pfeil.png" alt></a>
+				<div onclick="javascript:$('#protocol').goTo()" onmouseover="" style="cursor: pointer;" id="down-img" class="col-sm-2 col-sm-offset-5 visible-lg visible-sm visible-md">
+					<a href="javascript:$('#protocol').goTo()"></a>
 				</div>
 			</div>
 		</div>
@@ -54,7 +56,7 @@
 					Die Protokollausleihe kümmert sich darum, dass Studenten vor Prüfungen Protokolle von anderen Studenten zur Verfügung stehen. Protokolle werden in Papierform gegen ein Pfand ausgeliehen und wer eine Prüfung abgelegt hat ist angehalten immer auch ein Protokoll seiner eigenen Prüfung zu verfassen. <a href=/protokollausleihe> mehr...</a>
 					</p>
 					<p>
-					<strong>Aktuelle Ausleihzeit:</strong> Dienstags: 10-12Uhr.
+					<!--strong>Aktuelle Ausleihzeit:</strong> Donnerstags: 10-12Uhr.-->
 					</p>
 				</div>
 			</div>

@@ -15,12 +15,12 @@ function parseCustomToUTC(s) {
 
 
 function ShowCal(data) {
-    var now = (new Date()).setUTCSeconds(0);
+	var now = (new Date()).setUTCSeconds(0);
 	var termine = data.termine;
 	var events = 0;
     for (var i in termine) {
         if (parseCustomToUTC(termine[i].Datum) > (now-2*86400000)) {
-			console.log(parseCustomToUTC(termine[i].Datum) +": " + (now-86400000))
+		//	console.log(parseCustomToUTC(termine[i].Datum) +": " + (now-86400000))
             $('#ini-calendar > tbody').append("<tr><td>" + termine[i].Datum + "</td>"+
                                      "<td>" + termine[i].Uhrzeit + "</td>"+
                                      "<td>" + termine[i].name + "</td>"+
@@ -28,14 +28,20 @@ function ShowCal(data) {
 			events++;
         }
     }
-
 	if (events != 0) {
 	 $('#calendar').show() 
 	}
 
 }
 
-$.getJSON("static/js/termine.json", ShowCal);
+if ($('#calendar').length) {
+  $('#calendar').ready(function() {
+	  $.getJSON("static/js/termine.json", ShowCal);
+	});
+  setTimeout(function() {
+	  $('#ininav').fadeIn('750');
+  }, 1000);
 
+}
 //ShowCal();
 
