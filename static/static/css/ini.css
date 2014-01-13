@@ -40,12 +40,12 @@
 }
 
  #hello h1 {
-	 color: #F781F3;
+	 color: #df5cda;
 	 font-size: 50px;
 }
 
 #protocol {
-	background-color: #6df383;
+	background-color: #8adf5c;
 	padding-top: 50px;
 }
 
@@ -67,7 +67,7 @@
 }
 
 #atomic {
-	background-color: #F3F781;
+	background-color: #dfbf5c;
 }
 
 #atomic .container {
