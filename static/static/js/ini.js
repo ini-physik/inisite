@@ -34,6 +34,16 @@ function ShowCal(data) {
 
 }
 
+var subtexts;
+
+function ChangeSubtext(subtexts) {
+	do {
+	  var randomText = subtexts[Math.floor(Math.random()*subtexts.length)];
+	} while (randomText == $('#subtext').text())
+	
+	$('#subtext').text(randomText).hide().fadeIn(750);
+}
+
 if ($('#calendar').length) {
   $('#calendar').ready(function() {
 	  $.getJSON("static/js/termine.json", ShowCal);
@@ -41,6 +51,13 @@ if ($('#calendar').length) {
   setTimeout(function() {
 	  $('#ininav').fadeIn('750');
   }, 1000);
+
+  $.getJSON("static/js/subtexts.json", function(data) {
+	  subtexts=data.subtexts;
+  });
+  setInterval(function(){
+	  ChangeSubtext(subtexts)
+  }, 10000);
 
 }
 //ShowCal();
