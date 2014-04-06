@@ -3,7 +3,7 @@
 
 
 HUGO = ../hugo
-SITE_OFFSET := test/
+SITE_OFFSET := 
 BASE_URL := http://ini.physik.tu-berlin.de/${SITE_OFFSET}
 OUTPUT_DIR := public_html
 REMOTE_LOCATION := iniwww@rosa.physik.tu-berlin.de:/home/i/iniwww/public_html/${SITE_OFFSET}
@@ -17,9 +17,11 @@ INPUTS += content/
 
 all: ${OUTPUT_DIR}
 
-${OUTPUT_DIR}: ${INPUTS}
+basedir:
 	@echo "Create ing output dir: ${OUTPUT_DIR}"
-	@mkdir ${OUTPUT_DIR}
+	@mkdir -p ${OUTPUT_DIR}
+
+${OUTPUT_DIR}: ${INPUTS} basedir
 	@echo "hugo --source=${SOURCE_DIR} --base-url=${BASE_URL} --destination=${OUTPUT_DIR}"
 	${HUGO} --source=${SOURCE_DIR} --base-url=${BASE_URL} --destination=${OUTPUT_DIR}
 	@echo "Changing permissions"
