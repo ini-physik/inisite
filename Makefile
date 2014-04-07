@@ -28,7 +28,7 @@ ${OUTPUT_DIR}: ${INPUTS} basedir
 	@find ${OUTPUT_DIR} -type d -exec chmod a+x '{}' \; 
 
 test:
-	${HUGO} server --source=./
+	${HUGO} server --watch --source=./
 
 deploy: all
 	@rsync -ravud ${OUTPUT_DIR}/* ${REMOTE_LOCATION}
