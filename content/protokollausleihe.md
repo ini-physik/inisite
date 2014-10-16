@@ -21,7 +21,7 @@ An __Feiertagen__  erfolgt in der Regel keine Ausleihe.
 
 Hauptverantwortliche für die Protokollausleihe sind Sebastian Praetz und Felix Krüger.
 
-Für die Ausleihe von Protokollen ist ein ein Pfandgeld von 10 € zu entrichten. 5 € werden bei Rückgabe der ausgeliehenen Protokolle zurückerstattet. Die verbleibenden 5 € werden bei Abgabe eines neuen Protokolls der eigenen Prüfung zurückgezahlt. Die 5 €  für die ausgeliehenen Protokolle  gelten für eine Prüfung bei einem Prüfer. Es werden ca. 7-10 Protokolle je Prüfer ausgeliehen, sofern  vorhanden. Es besteht die Möglichkeit Protokolle bei einem anderen Prüfer, der gleichen Prüfung, für weitere 5 € Pfand auszuleihen.
+Für die Ausleihe von Protokollen ist ein ein Pfandgeld von 10 € zu entrichten. 5 € werden bei Rückgabe der ausgeliehenen Protokolle zurückerstattet. Die verbleibenden 5 € werden bei Abgabe eines neuen Protokolls der eigenen Prüfung zurückgezahlt. Die 5 €  für die ausgeliehenen Protokolle  gelten für eine Prüfung bei einem Prüfer. Es werden ca. 7-10 Protokolle je Prüfer ausgeliehen, sofern  vorhanden. Es besteht die Möglichkeit, Protokolle bei einem anderen Prüfer, der gleichen Prüfung, für weitere 5 € Pfand auszuleihen.
 
 ## Rückgabe
 
@@ -52,7 +52,7 @@ Aufgrund von datenschutzrechtlichen Maßnahmen dürfen wir leider keine Altklaus
 
 ## Kontakt
 
-Bei Fragen zur Protokollausleihe, Protokollanfragen oder Abgabe von neuen Protokollen sind wir unter folgenden e-Mail Adressen zu erreichen:
+Bei Fragen zur Protokollausleihe, Protokollanfragen oder Abgabe von neuen Protokollen sind wir unter folgender e-Mail Adresse zu erreichen:
 
 [**ini@physik.tu-berlin.de**](mailto:ini@physik.tu-berlin.de)
 
