@@ -11,7 +11,7 @@ Auf der INI-Sitzung vom 11.12.2012 um 18 Uhr, der Fachbereichsinitiative-Physik 
 
 Die Ausleihe findet in der Fachbereichsinitiative-Physik EW 023), neben dem Studentencafé Atomic, zu folgenden Zeiten statt:
 
-**Donnerstag 12-14Uhr und nach Vereinbarung**
+**Mittwoch 10-12Uhr und nach Vereinbarung**
 
 Diese erfolgt auch in der vorlesungsfreien Zeit.
 
