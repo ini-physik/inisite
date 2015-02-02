@@ -54,7 +54,7 @@ Aufgrund von datenschutzrechtlichen Maßnahmen dürfen wir leider keine Altklaus
 
 Bei Fragen zur Protokollausleihe, Protokollanfragen oder Abgabe von neuen Protokollen sind wir unter folgender e-Mail Adresse zu erreichen:
 
-[**ini@physik.tu-berlin.de**](mailto:ini@physik.tu-berlin.de)
+[**protokollausleihe@physik.tu-berlin.de**](mailto:protokollausleihe@physik.tu-berlin.de)
 
 
 
