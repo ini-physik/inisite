@@ -5,7 +5,27 @@
     "name": "Dummy Termin"
 },
 {
-    "Datum": "13.02.2015",
+    "Datum": "13.04.2015",
+    "Uhrzeit": "9:30",
+    "name": "Erstsemester Einführungsveranstaltung Physik"
+},
+{
+    "Datum": "13.04.2015",
+    "Uhrzeit": "19:00",
+    "name": "Erstiabend in der <a href='http://www.kulturfabrik-moabit.de/kufa/'>Kulturfabrik Moabit</a>"
+},
+{
+    "Datum": "14.04.2015",
+    "Uhrzeit": "12:00",
+    "name": "Erstsemester Brunch im Atomic"
+},
+{
+    "Datum": "15.04.2015",
+    "Uhrzeit": "16:00",
+    "name": "Moses Hilfe im PC-Pool Physik"
+},
+{
+    "Datum": "17.04.2015",
     "Uhrzeit": "21:00",
     "name": "Atomic Party"
 }
