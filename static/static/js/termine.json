@@ -20,12 +20,27 @@
     "name": "Erstsemester Brunch im Atomic"
 },
 {
-    "Datum": "15.04.2015",
-    "Uhrzeit": "16:00",
-    "name": "Moses Hilfe im PC-Pool Physik"
+    "Datum": "13.06.2015",
+    "Uhrzeit": "17:00",
+    "name": "Lange Nacht der Wissenschaft"
 },
 {
-    "Datum": "17.04.2015",
+    "Datum": "10.07.2015",
+    "Uhrzeit": "16:00",
+    "name": "Fakultätstag Physik"
+},
+{
+    "Datum": "09.07.2015",
+    "Uhrzeit": "15:00",
+    "name": "TU-Berlin Sommerfest 2015"
+},
+{
+    "Datum": "12.07.2015",
+    "Uhrzeit": "16:00",
+    "name": "AStA Sommerfest 2015"
+},
+{
+    "Datum": "17.07.2015",
     "Uhrzeit": "21:00",
     "name": "Atomic Party"
 }
