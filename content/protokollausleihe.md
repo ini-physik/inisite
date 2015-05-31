@@ -19,7 +19,7 @@ An __Feiertagen__  erfolgt in der Regel keine Ausleihe.
 
 ## Ausleihe
 
-Hauptverantwortliche für die Protokollausleihe sind Sebastian Praetz und Felix Krüger.
+Hauptverantwortliche für die Protokollausleihe sind Felix Krüger und Edgard Geer.
 
 Für die Ausleihe von Protokollen ist ein ein Pfandgeld von 10 € zu entrichten. 5 € werden bei Rückgabe der ausgeliehenen Protokolle zurückerstattet. Die verbleibenden 5 € werden bei Abgabe eines neuen Protokolls der eigenen Prüfung zurückgezahlt. Die 5 €  für die ausgeliehenen Protokolle  gelten für eine Prüfung bei einem Prüfer. Es werden ca. 7-10 Protokolle je Prüfer ausgeliehen, sofern  vorhanden. Es besteht die Möglichkeit, Protokolle bei einem anderen Prüfer, der gleichen Prüfung, für weitere 5 € Pfand auszuleihen.
 
