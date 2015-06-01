@@ -22,7 +22,7 @@ title_color: "#dd5d5d"
 		<span>
 			<ul>
 				<li>Fakultätsrat</li>
-				<li>Ausbildungskomission</li>
+				<li>Ausbildungskommission</li>
 			</ul>
 		</span>
 	</div>
@@ -32,9 +32,9 @@ title_color: "#dd5d5d"
 		<span>
 			<ul>
 				<li>Fakultätsrat</li>
-				<li>Ausbildungskomission</li>
+				<li>Ausbildungskommission</li>
 				<li>StuPa</li>
-				<li>Physikkomission</li>
+				<li>Physikkommission</li>
 			</ul>
 		</span>
 	</div>
@@ -44,7 +44,7 @@ title_color: "#dd5d5d"
 		<span>
 			<ul>
 				<li>Fakultätsrat</li>
-				<li>Ausbildungskomission</li>
+				<li>Ausbildungskommission</li>
 				<li>WiMi Sachen</li>
 			</ul>
 		</span>
@@ -66,7 +66,7 @@ title_color: "#dd5d5d"
 		<h3>Franz-Josef Schmitt</h3>
 		<span>
 			<ul>
-				<li>Ini Grosvater</li>
+				<li>Ini Großvater</li>
 				<li>Akademischer Senat</li>
 				<li>Fakultätsrat</li>
 				<li>Mittelbau Initiative</li>
@@ -112,6 +112,7 @@ title_color: "#dd5d5d"
 		<span>
 			<ul>
 				<li>StuPa</li>
+				<li>Ausbildungskommission</li>
 			</ul>
 		</span>
 	</div>
@@ -121,13 +122,13 @@ title_color: "#dd5d5d"
 		<span>
 			<ul>
 				<li>Projektlabor</li>
-				<li>Ausbildungskomission</li>
+				<li>Ausbildungskommission</li>
 			</ul>
 		</span>
 	</div>
 	<div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
-		<img src="/static/img/iniyourface/yusuf.jpg" alt="Yusuf Dings" class="img-circle iyf-heads center-block">
-		<h3>Yusuf Dings</h3>
+		<img src="/static/img/iniyourface/yusuf.jpg" alt="Yusuf Mohammed" class="img-circle iyf-heads center-block">
+		<h3>Yusuf Mohammed</h3>
 		<span>
 			<ul>
 				<li>Evaluation</li>
