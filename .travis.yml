@@ -1,0 +1,5 @@
+install:
+        - wget -O hugo.deb https://github.com/spf13/hugo/releases/download/v0.14/hugo_0.14_amd64.deb
+        - sudo dpkg -i hugo.deb
+        - sudo apt-get install imagemagick
+script: make all
