@@ -8,7 +8,7 @@
 				<div class="col-md-4 hidden-sm hidden-xs">
 					<div id="ini-sidebar" class="hidden-print affix" role="complementary">
 						<ul class="nav">
-					{{ range $key, $value := .Site.Indexes.groups.gremien.Pages }}
+					{{ range $key, $value := .Site.Taxonomies.groups.gremien.Pages }}
 							<li>
 							<a href="#{{ $value.RelPermalink }}">{{ $value.LinkTitle }}</a>
 							</li>
@@ -17,7 +17,7 @@
 					</div>
 				</div>
 				<div class="col-md-8">
-				{{ range $key, $value := .Site.Indexes.groups.gremien.Pages }}
+				{{ range $key, $value := .Site.Taxonomies.groups.gremien.Pages }}
 				  <div id="{{ $value.RelPermalink }}" class="gremien">
 					<h1>{{ $value.Title }}</h1>
 					{{ $value.Content }}

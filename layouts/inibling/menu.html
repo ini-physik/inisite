@@ -18,7 +18,7 @@
 					<span class="sr-only">Mehr</span>
 			  </a>
 			  <ul class="dropdown-menu" role="menu">
-				{{ range $key, $value := .Site.Indexes.groups.gremien.Pages }}
+				{{ range $key, $value := .Site.Taxonomies.groups.gremien.Pages }}
 				<li hugo-nav="{{$value.RelPermalink}}"><a href="/gremien/#{{$value.RelPermalink}}"> {{ $value.LinkTitle }} </a> </li>
 				{{ end }}
 			  </ul>
