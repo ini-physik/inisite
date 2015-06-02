@@ -20,6 +20,11 @@
     "name": "Erstsemester Brunch im Atomic"
 },
 {
+    "Datum": "12.06.2015",
+    "Uhrzeit": "16:00",
+    "name": "AStA Sommerfest 2015"
+},
+{
     "Datum": "13.06.2015",
     "Uhrzeit": "17:00",
     "name": "Lange Nacht der Wissenschaft"
@@ -33,11 +38,6 @@
     "Datum": "09.07.2015",
     "Uhrzeit": "15:00",
     "name": "TU-Berlin Sommerfest 2015"
-},
-{
-    "Datum": "12.07.2015",
-    "Uhrzeit": "16:00",
-    "name": "AStA Sommerfest 2015"
 },
 {
     "Datum": "17.07.2015",
