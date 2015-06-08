@@ -5,13 +5,13 @@ title_color: "#8adf5c"
 
 ## Einführung/Beschluss
 
-Auf der INI-Sitzung vom 11.12.2012 um 18 Uhr, der Fachbereichsinitiative-Physik der TU-Berlin wurde die Protokollausleihe in Papierform, in einer Mehrheitswahl, beschlossen (s. TOP 7 des INI-Protokolls vom 11.12.12). Das Protokoll der Sitzung steht [hier](http://ini.physik.tu-berlin.de/documents "Piratenpad Dokumente") zur Verfügung.
+Die Protokollausleihe findet, aufgrund der dadurch verbesserten Rücklaufquote, in Papierform statt. Wir sind daruf angewiesen, dass möglichst viele Stundierende, die sich ein Protokoll ausleihen, auch selbst eines schreiben, um die Protokollsammlung aktuall zu halten.
 
 ## Öffnungszeiten
 
 Die Ausleihe findet in der Fachbereichsinitiative-Physik EW 023), neben dem Studentencafé Atomic, zu folgenden Zeiten statt:
 
-**Mittwoch 10-12Uhr und nach Vereinbarung**
+**Mittwoch 10-12Uhr oder nach Vereinbarung**
 
 Diese erfolgt auch in der vorlesungsfreien Zeit.
 
@@ -25,7 +25,7 @@ Für die Ausleihe von Protokollen ist ein ein Pfandgeld von 10 € zu entrichten
 
 ## Rückgabe
 
-Die Rückgabe der Protokolle kann jederzeit erfolgen, sofern einer der Zuständigen diese entgegennehmen und den Ausleiher auszahlen kann. Den Pfand kann man bis zu einem Jahr nach der Ausleihe abholen. Die 5€ für das selbst anzufertigende Protokoll können erst ausgezahlt werde, wenn dieses Protokoll in digitaler oder Papierform  vorliegt. Neue Protokolle in digitaler Form können jederzeit an folgende e-Mail Adresse gesendet werden:
+Die Rückgabe der Protokolle kann jederzeit erfolgen, sofern einer der Zuständigen diese entgegennehmen und den Ausleiher auszahlen kann. Den Pfand kann man bis zu einem Jahr nach der Ausleihe abholen. Die 5€ für das selbst anzufertigende Protokoll können erst ausgezahlt werden, wenn dieses Protokoll in digitaler oder Papierform vorliegt. Neue Protokolle in digitaler Form können jederzeit an folgende e-Mail Adresse gesendet werden:
 
 ini@physik.tu-berlin.de
 

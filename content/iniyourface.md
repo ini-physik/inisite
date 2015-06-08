@@ -40,7 +40,7 @@ title_color: "#dd5d5d"
 	</div>
 	<div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
 		<img src="/static/img/iniyourface/elli.jpg" alt="Elisabeth Schlottman" class="img-circle iyf-heads center-block">
-		<h3>Elisabett Schlottmann</h3>
+		<h3>Elisabeth Schlottmann</h3>
 		<span>
 			<ul>
 				<li>Fakultätsrat</li>
@@ -91,6 +91,9 @@ title_color: "#dd5d5d"
 				<li>Akademischer Senat</li>
 				<li>Vernetzung</li>
 				<li>Prüfungsausschuss</li>
+				<li>Ausbildungskommission</li>
+				<li>Haushaltskommission des Fakultätsrates</li>
+				<li>FinEp</li>
 			</ul>
 		</span>
 	</div>
@@ -107,8 +110,8 @@ title_color: "#dd5d5d"
 </div>
 <div class="row">
 	<div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
-		<img src="/static/img/iniyourface/phillip.jpg" alt="Phillip Jung" class="img-circle iyf-heads center-block">
-		<h3>Phillip Jung</h3>
+		<img src="/static/img/iniyourface/phillip.jpg" alt="Philipp Jung" class="img-circle iyf-heads center-block">
+		<h3>Philipp Jung</h3>
 		<span>
 			<ul>
 				<li>StuPa</li>

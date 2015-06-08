@@ -1,5 +1,5 @@
 ---
-Title:		  "Gremien Übersicht"
+Title:		  "Gremien-Übersicht"
 LinkTitle:	  "Übersicht"
 Description:  ""
 Slug:		  "uebersicht"

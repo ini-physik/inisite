@@ -9,7 +9,7 @@ jeweils von anderen Universitäten veranstaltet, statt.  Gleichzeitig versteht
 sich die ZaPF eben auch als die Zusammenkunft aller deutschsprachigen Fachschaften, 
 also gehören auch die Fachschaften aus der Schweiz und Österreich dazu! Als Vertretung 
 zwischen den halbjährlich stattfindenden ZaPFen wird auf jeder ZaPF der StAPF gewählt, 
-der die ZaPF nach außen und Zwischen den ZaPFen vertritt.
+der die ZaPF nach außen und zwischen den ZaPFen vertritt.
 
 Die ZaPF unterhält als Arbeitsplattform ein Wiki, das vor allem als Arbeitsplattform 
 während der ZaPFen dient und umfangreich über die Inhalte der ZaPF informiert. Auf der Seite 
