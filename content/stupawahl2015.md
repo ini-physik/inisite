@@ -17,7 +17,7 @@ Von Montag dem 15.06.2015 bis zum Donnerstag den 19.06.2015 sind [StuPa](/gremie
 
 ### Kompetenz-Kompetenz
 
-Wir fordern mehr Kompetenz auf allen Ebenen und die Kompetenz Kompetenz bei Kompetenzen Kompetenzen zu kompensieren!
+Wir fordern mehr Kompetenz auf allen Ebenen und die Kompetenz Kompetenzen bei kompetenten Kompetenten zu kompensieren!
 
 ### Stressfrei Studieren
 
@@ -25,12 +25,12 @@ Wir wissen, dass studieren ohne Leistungs- und Erfolgsdruck toll ist.
 
 ### Gegen verfasste Fachschaften
 
-Wir sind gegen gewählte Fachschafte, die Geld und offizielle Mittel zur **Bewirtschaftung** bekommen, denn das *i* steht für Anarchie!
+Wir sind gegen gewählte Fachschaften, die Geld und offizielle Mittel zur **Bewirtschaftung** bekommen, denn das *i* steht für Anarchie!
 
 ## Die Kandidaten
 
 * Maria Schlungbaum
-* Phillipp Jung
+* Philipp Jung
 * Claus Carsten Schulz (Mathe-Ini)
 * Niklas Kanold
 * Csongor Keuer
