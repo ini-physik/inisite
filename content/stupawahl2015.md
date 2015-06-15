@@ -8,7 +8,7 @@ title_color: "#d75ddd"
 
 # Studierenden&shy;paralaments&shy;wahlen 2015
 
-Von Montag dem 15.06.2015 bis zum Donnerstag den 19.06.2015 sind [StuPa](/gremien/#%2fgremien%2fstupa) Wahlen
+Von Montag dem 15.06.2015 bis zum Freitag den 19.06.2015 sind [StuPa](/gremien/#%2fgremien%2fstupa) Wahlen
 
 * [Wahlbekanntmachung](http://www.studwv.tu-berlin.de/menue/wahlen_und_urabstimmungen/wahlen_zum_xxxvi_studierendenparlament/wahlbekanntmachung/)
 * [Wahllokale](http://www.studwv.tu-berlin.de/menue/wahlen_und_urabstimmungen/wahlen_zum_xxxvi_studierendenparlament/wahllokale/)
