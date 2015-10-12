@@ -5,54 +5,29 @@
     "name": "Dummy Termin"
 },
 {
-    "Datum": "13.04.2015",
-    "Uhrzeit": "9:30",
+    "Datum": "12.10.2015",
+    "Uhrzeit": "10:00",
     "name": "Erstsemester Einführungsveranstaltung Physik"
 },
 {
-    "Datum": "13.04.2015",
-    "Uhrzeit": "19:00",
+    "Datum": "12.10.2015",
+    "Uhrzeit": "20:00",
     "name": "Erstiabend in der <a href='http://www.kulturfabrik-moabit.de/kufa/'>Kulturfabrik Moabit</a>"
 },
 {
-    "Datum": "14.04.2015",
+    "Datum": "15.10.2015",
     "Uhrzeit": "12:00",
     "name": "Erstsemester Brunch im Atomic"
 },
 {
-    "Datum": "12.06.2015",
-    "Uhrzeit": "16:00",
-    "name": "AStA Sommerfest 2015"
-},
-{
-    "Datum": "13.06.2015",
-    "Uhrzeit": "17:00",
-    "name": "Lange Nacht der Wissenschaft"
-},
-{
-    "Datum": "19.06.2015",
-    "Uhrzeit": "15:00",
-    "name": "Ab dem 15.06. <a href='/stupa-wahl'>StuPa Wahlen</a>"
-},
-{
-    "Datum": "3.07.2015",
-    "Uhrzeit": "15:00",
-    "name": "Ab dem 29.06. Personalratswahlen"
-},
-{
-    "Datum": "09.07.2015",
-    "Uhrzeit": "15:00",
-    "name": "TU-Berlin Sommerfest 2015"
-},
-{
-    "Datum": "10.07.2015",
-    "Uhrzeit": "16:00",
-    "name": "Fakultätstag Physik"
-},
-{
-    "Datum": "17.07.2015",
+    "Datum": "16.10.2015",
     "Uhrzeit": "21:00",
     "name": "Atomic Party"
+},
+{
+    "Datum": "23.10.2015",
+    "Uhrzeit": "10:00",
+    "name": "Erstsemesterfahrt bis zum 25.10."
 }
 ]}
 
