@@ -138,4 +138,17 @@ title_color: "#dd5d5d"
 			</ul>
 		</span>
 	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
+		<img src="/static/img/iniyourface/fabs.jpg" alt="Fabian Freyer" class="img-circle iyf-heads center-block">
+		<h3>Fabian Freyer</h3>
+		<span>
+			<ul>
+				<li>Vernetzung</li>
+				<li>ZaPF-Studienführer</li>
+				<li>StuPa</li>
+				<li>ZaPF-TOPF-Deckel</li>
+			</ul>
+		</span>
+	</div>
+
 </div>
