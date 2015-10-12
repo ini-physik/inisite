@@ -1,3 +1,5 @@
 public
 *.swp
 static/favicon.ico
+/public_html
+
