@@ -21,7 +21,7 @@ FAVICON_SVG := resources/img/favicon.svg
 all: ${OUTPUT_DIR}
 
 $(FAVICON): $(FAVICON_SVG)
-	convert $<  -bordercolor white -border 0 \
+	convert $<  -bordercolor blue -border 0 \
 	\( -clone 0 -resize 16x16 \) \
 	\( -clone 0 -resize 32x32 \) \
 	\( -clone 0 -resize 48x48 \) \
