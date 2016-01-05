@@ -36,7 +36,7 @@ basedir: $(FAVICON)
 ${OUTPUT_DIR}: ${INPUTS} basedir
 	${HUGO} --source=${SOURCE_DIR} --baseUrl=${BASE_URL} --destination=${OUTPUT_DIR}
 	@echo "Changing permissions"
-	@find ${OUTPUT_DIR} -type d -exec chmod a+x '{}' \; 
+	@find ${OUTPUT_DIR} -type d -exec chmod a+x,go-w '{}' \; 
 
 test:
 	${HUGO} server --watch --source=./
