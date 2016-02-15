@@ -5,11 +5,11 @@ title_color: "#8adf5c"
 
 ## Einführung/Beschluss
 
-Die Protokollausleihe findet, aufgrund der dadurch verbesserten Rücklaufquote, in Papierform statt. Wir sind daruf angewiesen, dass möglichst viele Stundierende, die sich ein Protokoll ausleihen, auch selbst eines schreiben, um die Protokollsammlung aktuall zu halten.
+Die Protokollausleihe findet, aufgrund der dadurch verbesserten Rücklaufquote, in Papierform statt. Wir sind darauf angewiesen, dass möglichst viele Studierende, die sich ein Protokoll ausleihen, auch selbst eines schreiben, um die Protokollsammlung aktuell zu halten.
 
 ## Öffnungszeiten
 
-Die Ausleihe findet in der Fachbereichsinitiative-Physik EW 023), neben dem Studentencafé Atomic, zu folgenden Zeiten statt:
+Die Ausleihe findet in der Fachbereichsinitiative-Physik EW 023, neben dem Studentencafé Atomic, zu folgenden Zeiten statt:
 
 **Dienstag 12-14Uhr oder nach Vereinbarung**
 
@@ -27,7 +27,7 @@ Für die Ausleihe von Protokollen ist ein ein Pfandgeld von 10 € zu entrichten
 
 Die Rückgabe der Protokolle kann jederzeit erfolgen, sofern einer der Zuständigen diese entgegennehmen und den Ausleiher auszahlen kann. Den Pfand kann man bis zu einem Jahr nach der Ausleihe abholen. Die 5€ für das selbst anzufertigende Protokoll können erst ausgezahlt werden, wenn dieses Protokoll in digitaler oder Papierform vorliegt. Neue Protokolle in digitaler Form können jederzeit an folgende e-Mail Adresse gesendet werden:
 
-ini@physik.tu-berlin.de
+protokollausleihe@physik.tu-berlin.de
 
 ## Protokollanfertigung
 
