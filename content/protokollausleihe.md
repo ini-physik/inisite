@@ -27,7 +27,7 @@ Für die Ausleihe von Protokollen ist ein ein Pfandgeld von 10 € zu entrichten
 
 Die Rückgabe der Protokolle kann jederzeit erfolgen, sofern einer der Zuständigen diese entgegennehmen und den Ausleiher auszahlen kann. Den Pfand kann man bis zu einem Jahr nach der Ausleihe abholen. Die 5€ für das selbst anzufertigende Protokoll können erst ausgezahlt werden, wenn dieses Protokoll in digitaler oder Papierform vorliegt. Neue Protokolle in digitaler Form können jederzeit an folgende e-Mail Adresse gesendet werden:
 
-protokollausleihe@physik.tu-berlin.de
+[**protokollausleihe@physik.tu-berlin.de**](mailto:protokollausleihe@physik.tu-berlin.de)
 
 ## Protokollanfertigung
 
