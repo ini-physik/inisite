@@ -3,6 +3,12 @@ Title:	  "Atomic"
 title_color: "#dfbf5c"
 ---
 
+Das Atomic ist das selbstverwaltete Café der Physikstudierenden. Jeder ist willkommen einzukehren und sich zu beteiligen. Es gibt einen Email Verteiler bei dem über aktuelle Gegebenheiten diskutiert werden kann:
+[atomic@lists.physik.tu-berlin.de](atomic@lists.physik.tu-berlin.de)
+Du kannst dich gerne [hier](https:\\lists.physik.tu-berlin.de/mailman/listinfo/atomic) in die Liste eintragen!
+
+##Geschichte
+
 Das Atomic Café wurde vor einigen Jahren bei einer Nacht-und-Nebel-Besetzungs-Aktion ins Leben gerufen.  Damals besetzten einige mutige Studierende im Zuge irgendeines evolutionären Streiks die PN-061 und -2, die die Zentrale Raumvergabe dann in Anbetracht des geballten Durchsetzungsvermögens dieser Eroberer freundlicherweise an die Studierendenschaft abtreten musste.
 
 Heraus kamen dabei die INI und ein überflüssiger Raum, der sich schon bald bei vielen Studierenden als äußerst nützlicher Rumhäng-Platz entpuppen sollte.  Bequemer wurde er mit jedem materialisierenden Sofa ein bisschen mehr.  Hinzu kamen Tischchen und eine Theke, auch die Ankunft des Kühlschranks wurde frenetisch bejubelt.  Doch das zentrale Möbel ist wohl die Kaffeemaschine, dicht gefolgt von Anlage und Wasserkocher.
