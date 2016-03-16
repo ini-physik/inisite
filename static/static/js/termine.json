@@ -5,29 +5,28 @@
     "name": "Dummy Termin"
 },
 {
-    "Datum": "12.10.2015",
+    "Datum": "18.04.2016",
     "Uhrzeit": "10:00",
-    "name": "Erstsemester Einführungsveranstaltung Physik"
+    "name": "Erstsemester Einführungsveranstaltung Physik im ER 270"
 },
 {
-    "Datum": "12.10.2015",
+    "Datum": "18.04.2016",
     "Uhrzeit": "20:00",
     "name": "Erstiabend in der <a href='http://www.kulturfabrik-moabit.de/kufa/'>Kulturfabrik Moabit</a>"
 },
 {
-    "Datum": "15.10.2015",
+    "Datum": "19.04.2016",
     "Uhrzeit": "12:00",
     "name": "Erstsemester Brunch im Atomic"
 },
 {
-    "Datum": "16.10.2015",
-    "Uhrzeit": "21:00",
-    "name": "Atomic Party"
+    "Datum": "20.04.2016",
+    "Uhrzeit": "19:00",
+    "name": "Campus Café Pubcrawl - Start im Atomic"
 },
 {
-    "Datum": "23.10.2015",
-    "Uhrzeit": "10:00",
-    "name": "Erstsemesterfahrt bis zum 25.10."
+    "Datum": "22.04.2016",
+    "Uhrzeit": "21:00",
+    "name": "Semesterauftaktparty"
 }
 ]}
-
