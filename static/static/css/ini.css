@@ -85,6 +85,15 @@
 	display: none;
 }
 
+#erstifahrt {
+	padding: 40px;
+}
+
+#iniyourface {
+	background-color: #dd5d5d;
+	padding: 40px;
+}
+
 .overview {
 	margin-bottom: 25px;
 }
