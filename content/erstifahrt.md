@@ -7,12 +7,12 @@ Die Ersti-Fahrt ist dazu gedacht, dass ihr euch gegenseitig sowie auch überaus 
 ## Die wichtigsten Fakten
 * **Wann:** 28.-30.10.2016
 * **Wo:** Wendisch Rietz am Scharmützelsee, südöstlich von Berlin
-* **Preis:** 42€
+* **Preis:** 42,00€
 
 In dem Preis sind An- und Abreise, Unterkunft und Verpflegung enthalten. Falls benötigt können zusätzlich Bettwäsche für 7,50€ und Handtücher für 5,00€ ausgeliehen werden.
 
 ## Anmeldung
-Falls ihr Interesse habt, dann schreibt bitte eine E-Mail an leo.hermann[at]physik.tu-berlin.de mit Namen, E-Mail-Adresse und Matrikelnummer (falls möglich). Ihr könnt an diese Adresse gerne auch Fragen stellen oder Ideen äußern.
+Falls ihr Interesse habt, dann schreibt bitte eine E-Mail an leo.herrmann[at]physik.tu-berlin.de mit Namen, E-Mail-Adresse und Matrikelnummer (falls möglich). Ihr könnt an diese Adresse gerne auch Fragen stellen oder Ideen äußern.
 
 ## Bezahlung
 Die verbindliche Zusage erfolgt durch Zahlung des Beitrages bei der Einführungsveranstaltung am 17.10.2016, in der Ini Physik (EW 023) oder durch Überweisung (Kontodaten können per Mail nachgefragt werden). Es gibt 27 Plätze, wer zuerst kommt, mahlt zuerst!
