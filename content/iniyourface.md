@@ -38,7 +38,7 @@ title_color: "#dd5d5d"
                                 <li>Akademischer Senat</li>
                                 <li>Prüfungsausschuss</li>
                                 <li>Vernetzung mit anderen Physikfachschaften</li>
-                                <li>Hauptorga der ZaPF 2017 in Berlin</li>
+                                <li>Koordination der ZaPF 2017 in Berlin</li>
                         </ul>
                 </span>
         </div>
