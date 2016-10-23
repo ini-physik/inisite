@@ -2,7 +2,7 @@
 Title:	"Ersti-Fahrt"
 title_color:	"#DF01D7"
 ---
-Die Ersti-Fahrt ist dazu gedacht, dass ihr euch gegenseitig sowie auch überaus nützliche Sachen fürs Studium kennenlernen könnt. Wir möchten euch am zweiten Wochenenden nach Beginn der Vorlesungszeit eine Einführung in Programme wie LaTeX und Qti-Plot geben, da ihr diese bereits ab dem Studienbeginn brauchen werdet. Ein Hauptaspekt bleibt aber das Kennenlernen in gemütlicher Atmosphäre ;)
+Die Ersti-Fahrt ist dazu gedacht, dass ihr euch gegenseitig sowie auch überaus nützliche Sachen fürs Studium kennenlernen könnt. Wir möchten euch am zweiten Wochenende nach Beginn der Vorlesungszeit eine Einführung in Programme wie LaTeX und QtiPlot geben, da ihr diese bereits ab dem Studienbeginn brauchen werdet. Ein Hauptaspekt bleibt aber das Kennenlernen in gemütlicher Atmosphäre ;)
 
 ## Die wichtigsten Fakten
 * **Wann:** 28.-30.10.2016
@@ -44,8 +44,8 @@ In einigen Workshops wollen wir euch Computerprogramme zeigen. Dazu braucht ihr 
 
 \* Im Übrigen dürft ihr gerne auch eine andere LaTeX-Version nutzen, einen eigenen Editor etc., wenn ihr das wollt. Unser Vorschlag ist nicht unbedingt besser, aber die Vielzahl an Möglichkeiten macht die Wahl gerade am Anfang nicht einfacher und ist vorerst eh nicht so wichtig. Aber wenn euch was stört, seid gern so frei, euch nach etwas anderem umzusehen.
 
-### qtiPlot
-[Hier könnt ihr qtiPlot installieren.](https://www.physik.tu-berlin.de/qtiplot "qtiPlot") Allerdings müsst ihr dafür mit dem WLAN der Uni verbunden sein. Also meldet euch mit eurem tubIT-Account im Eduroam-Wlan der Uni an oder [legt euch einen VPN-Zugang an.](https://www.tubit.tu-berlin.de/menue/dienste/kommunikation_internet/vpn "Eine Anleitung")
+### QtiPlot
+[Hier könnt ihr QtiPlot installieren.](https://www.physik.tu-berlin.de/qtiplot "QtiPlot") Allerdings müsst ihr dafür mit dem WLAN der Uni verbunden sein. Also meldet euch mit eurem tubIT-Account im Eduroam-Wlan der Uni an oder [legt euch einen VPN-Zugang an.](https://www.tubit.tu-berlin.de/menue/dienste/kommunikation_internet/vpn "Eine Anleitung")
 
 
 ### Inkscape
