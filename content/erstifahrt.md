@@ -23,7 +23,7 @@ Wir sind in Häusern zu 6 bis 7 Personen untergebracht.
 ## Abfahrt
 Wir werden am Freitag um **13:45 Uhr am Atomic** abfahren.
 Für alle die am Freitag GP haben, wird es einen weiteren Abfahrtstermin wahrscheinlich um 16 Uhr geben.
-Außerdem wird es noch einen dritten Treffpunkt geben, nämlich 15:20 Uhr in Königs Wusterhausen auf Gleis 3.
+Außerdem wird es noch einen dritten Treffpunkt geben, nämlich 15:20 Uhr in Königs Wusterhausen (bis dahin gilt das ABC-Studierenden-Ticket!) auf Gleis 3.
 
 ## Allgemeines
 Wir werden im Voraus die Häuser aufteilen. Wir haben 7 6er-Häuser und eines davon ist für Organisator/innen reserviert. In jedem Haus wird es eine/n verantwortliche/n Teilnehmer/in geben, der/die den Schlüssel bekommt und sich an uns wendet, wenn es Schwierigkeiten gibt. Jede/r Verantwortliche hat eine/n eigene/n Ansprechpartner/in unter den Organisator/innen.
