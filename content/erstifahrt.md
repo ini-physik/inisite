@@ -13,7 +13,7 @@ In dem Preis sind An- und Abreise, Unterkunft und Verpflegung enthalten. Falls b
 Wir sind in Häusern zu 6 bis 7 Personen untergebracht.
 
 ## Workshops
-* Uni-Politik
+* Hochschulpolitik
 * LaTeX
 * Outside Activities
 * Inkscape
@@ -22,14 +22,13 @@ Wir sind in Häusern zu 6 bis 7 Personen untergebracht.
 
 ## Abfahrt
 Wir werden am Freitag um **13:45 Uhr am Atomic** abfahren.
-Für alle die am Freitag GP haben, wird es einen weiteren Abfahrtstermin spätestens um 16 Uhr geben.
-Da GP oft schon früher fertig ist, könnt ihr einfach ins Atomic/in den PC-Pool kommen und könnt dann los, sobald ihr vollzählig seid.
+Für alle die am Freitag GP haben, wird es einen weiteren Abfahrtstermin wahrscheinlich um 16 Uhr geben.
 Außerdem wird es noch einen dritten Treffpunkt geben, nämlich 15:20 Uhr in Königs Wusterhausen auf Gleis 3.
 
 ## Allgemeines
-Wir werden im Voraus die Häuser aufteilen. Wir haben 7 6er-Häuser und eines davon ist für Organisator/innen reserviert (VIP-Haus). In jedem Haus wird es eine/n verantwortliche/n Teilnehmer/in geben, der/die den Schlüssel bekommt und sich an uns wendet, wenn es Schwierigkeiten gibt. Jede/r Verantwortliche hat eine/n eigene/n Ansprechpartner/in unter den Organisator/innen.
+Wir werden im Voraus die Häuser aufteilen. Wir haben 7 6er-Häuser und eines davon ist für Organisator/innen reserviert. In jedem Haus wird es eine/n verantwortliche/n Teilnehmer/in geben, der/die den Schlüssel bekommt und sich an uns wendet, wenn es Schwierigkeiten gibt. Jede/r Verantwortliche hat eine/n eigene/n Ansprechpartner/in unter den Organisator/innen.
 
-Wer eine BahnCard hat, soll diese bitte unbedingt mitbringen, das macht die Anfahrt günstiger. Wer keine BahnCard hat und gerne eine hätte (BC25, gültig bis Mitte Dezember), kann sich mit einem überzeugenden Grund (sprich: einem Grund) an mich (leo.herrmann[at]physik.tu-...) wenden, ich habe noch eine übrig.
+Wer eine BahnCard hat, soll diese bitte unbedingt mitbringen, das macht die Anfahrt günstiger.
 
 Zur Vernetzung gibt es außer der Mailingliste eine Whats'App- und [eine Facebook-Gruppe](https://www.facebook.com/groups/517190595157808/ "Facebook").
 
