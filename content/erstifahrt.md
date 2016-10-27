@@ -9,8 +9,35 @@ Die Ersti-Fahrt ist dazu gedacht, dass ihr euch gegenseitig sowie auch überaus 
 * **Wo:** Wendisch Rietz am Scharmützelsee, südöstlich von Berlin
 * **Preis:** 42,00€
 
-In dem Preis sind An- und Abreise, Unterkunft und Verpflegung enthalten. Falls benötigt können zusätzlich Bettwäsche für 7,50€ und Handtücher für 5,00€ ausgeliehen werden.
-Wir sind in Häusern zu 6 bis 7 Personen untergebracht.
+## Abfahrt
+Wir treffen uns um
+
+* **13:45 Uhr am Atomic,**
+* 15:20 Uhr in Königs Wusterhausen auf Gleis 3 bzw.
+* 15:45 Uhr am Atomic.
+
+Kommt bitte entweder zu dem Termin, zu dem ihr euch eingetragen habt oder **meldet euch, wenn ihr zu einem anderen Termin kommen wollt**. Der (erste) Termin ist extra so gelegt, dass ihr vorher noch Zeit zum Mittagessen habt. Nutzt das gerne.
+
+## Packen
+Die Ferienhäuser (Ferienpark Scharmützelsee) sind etwa 2 km vom Bahnhof in Wendisch Rietz entfernt; diese Strecke müsst ihr mit eurem Gepäck laufen. Beachtet das beim Packen!
+
+#### Bitte unbedingt mitbringen:
+* Personalausweis
+* BahnCard
+* Krankenversicherungsausweis (sofern ihr nicht privat versichert seit)
+* Studierendenausweis
+* Bettwäsche (Kopfkissen, Bettbezug, Laken; wenn ihr nicht welche bestellt habt)
+* Handtücher (wenn ihr nicht welche bestellt habt)
+* Computer (Habt ihr die Computerprogramme installiert?)
+* Zahnputzzeug, …, was ihr sonst auf Reisen braucht
+
+#### Was sonst noch?
+* Musik
+* Badezeug (Falls ihr in den See springen wollt)
+* Gitarre, Liederbücher, Volleyball, …
+* und auf jeden Fall: Gute Laune
+
+Wenn ihr irgendwelche Fragen dazu habt, stellt sie gerne!
 
 ## Workshops
 * Hochschulpolitik
@@ -20,12 +47,10 @@ Wir sind in Häusern zu 6 bis 7 Personen untergebracht.
 * QtiPlot
 * Diskussion über Wahlfächer
 
-## Abfahrt
-Wir werden am Freitag um **13:45 Uhr am Atomic** abfahren.
-Für alle die am Freitag GP haben, wird es einen weiteren Abfahrtstermin wahrscheinlich um 16 Uhr geben (Treffpunkt wieder am Atomic).
-Außerdem wird es noch einen dritten Treffpunkt geben, nämlich 15:20 Uhr in Königs Wusterhausen (bis dahin gilt das ABC-Studierenden-Ticket!) auf Gleis 3.
-
 ## Allgemeines
+In dem Preis sind An- und Abreise, Unterkunft und Verpflegung enthalten. Falls benötigt können zusätzlich Bettwäsche für 7,50€ und Handtücher für 5,00€ ausgeliehen werden.
+Wir sind in Häusern zu 6 bis 7 Personen untergebracht.
+
 Wir werden im Voraus die Häuser aufteilen. Wir haben 7 6er-Häuser und eines davon ist für Organisator/innen reserviert. In jedem Haus wird es eine/n verantwortliche/n Teilnehmer/in geben, der/die den Schlüssel bekommt und sich an uns wendet, wenn es Schwierigkeiten gibt. Jede/r Verantwortliche hat eine/n eigene/n Ansprechpartner/in unter den Organisator/innen.
 
 Wer eine BahnCard hat, soll diese bitte unbedingt mitbringen, das macht die Anfahrt günstiger.
