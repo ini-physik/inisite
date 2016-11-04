@@ -11,7 +11,11 @@ Die Protokollausleihe findet, aufgrund der dadurch verbesserten Rücklaufquote, 
 
 Die Ausleihe findet in der Fachbereichsinitiative-Physik EW 023, neben dem Studentencafé Atomic, zu folgenden Zeiten statt:
 
+<<<<<<< HEAD
 **Donnerstag 12-14Uhr oder nach Vereinbarung**
+=======
+**Donnerstag 10-12 Uhr oder nach Vereinbarung** (ab dem 10.11.16)
+>>>>>>> eb991819260e44a3460f6e391007ecdbd6b0d90a
 
 Diese erfolgt auch in der vorlesungsfreien Zeit.
 
