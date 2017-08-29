@@ -8,5 +8,5 @@ Der Fakultätsrat ist das höchste Gremium der Fakultät II und setzt sich aus 2
 Bei den Entscheidungen lässt sich der Fakultätsrat von der Physikkommission beraten.
 Des Weiteren besetzt der Rat die Ausbildungskommision, die Physikkommision und den Prüfungsausschuss mit Mitgliedern.
 
-Mitglieder: [gibts hier] (http://www.naturwissenschaften.tu-berlin.de/fileadmin/f2/Fakultaetsrat/Fakultaetsratsmitglieder/Mitgliederliste_FKR_2015-2017.pdf)
+Mitglieder: [gibts hier] (http://www.naturwissenschaften.tu-berlin.de/fileadmin/f2/Fakultaetsrat/Fakultaetsratsmitglieder/Mitgliederliste_FKR_2017-2019.pdf)
 
