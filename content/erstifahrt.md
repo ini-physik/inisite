@@ -10,7 +10,7 @@ Die Erstifahrt ist dazu gedacht, dass ihr euch gegenseitig sowie auch überaus n
 * **Preis:** Voraussichtlich etwa 25 Euro
 * **Anmeldung:** [Tragt euch gleich in diese Mailingliste ein](https://lists.physik.tu-berlin.de/mailman/listinfo/erstifahrt "Erstifahrt-Mailingliste"), dann erhaltet ihr alle Informationen zur Anmeldung rechtzeitig. 
 
-In dem Preis sind An- und Abreise, Unterkunft und Verpflegung enthalten. <!-- Falls benötigt können zusätzlich Bettwäsche für 7,50€ und Handtücher für 5,00€ ausgeliehen werden. -->
+In dem Preis sind An- und Abreise, Unterkunft und Verpflegung enthalten. **Ihr seid erst dann sicher dabei, wenn ihr die Fahrt bezahlt habt.** Alle Infos dazu erhaltet ihr über [die Mailingliste](https://lists.physik.tu-berlin.de/mailman/listinfo/erstifahrt "Erstifahrt-Mailingliste"). <!-- Falls benötigt können zusätzlich Bettwäsche für 7,50€ und Handtücher für 5,00€ ausgeliehen werden. -->
 
 ## Workshops
 * Praktika: Grundpraktikum und Projektlabor
