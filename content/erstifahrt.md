@@ -16,11 +16,33 @@ Die Erstifahrt ist dazu gedacht, dass ihr euch gegenseitig **kennenlernt** sowie
 * **Wann:** Freitag, 13.10. vormittags - Sonntag, 15.10.2017 nachmittags
 * **Wo:** [KiEZ-Inselparadies in Petzow, Werder (Havel)](http://inselparadies-petzow.de "KiEZ-Inselparadies"), südwestlich von Berlin
 * **Preis:** 20 Euro
-* **Anmeldung:** [Tragt euch gleich in diese Mailingliste ein](https://lists.physik.tu-berlin.de/mailman/listinfo/erstifahrt "Erstifahrt-Mailingliste"), dann erhaltet ihr alle Informationen zur Anmeldung rechtzeitig. 
 
-In dem Preis sind An- und Abreise, Unterkunft und Verpflegung enthalten. **Ihr seid erst dann sicher dabei, wenn ihr die Fahrt bezahlt habt.** Das könnt ihr per Überweisung oder bar
-machen ([alle Infos über die Mailingliste](https://lists.physik.tu-berlin.de/mailman/listinfo/erstifahrt "Erstifahrt-Mailingliste")) oder spätestens bar am Tag der Einführungsveranstaltung Physik.
-Auch wenn ihr euch noch nicht sicher seid, bringt am 11.10. auf alle Fälle mal 20 € mit! <!-- Falls benötigt können zusätzlich Bettwäsche für 7,50€ und Handtücher für 5,00€ ausgeliehen werden. -->
+[<button style="font-size: 1.3em;">Anmelden könnt ihr euch hier.</button>](https://goo.gl/forms/n1Sb0TJ07CfoYDBR2 "Anmeldung")
+
+## Kosten
+In dem Preis sind An- und Abreise, Unterkunft und Verpflegung enthalten. **Ihr seid erst dann sicher dabei, wenn ihr die Fahrt bezahlt habt.** Wie das geht, lest ihr weiter unten. ↓
+
+Falls benötigt können zusätzlich Bettwäsche für 5,50 € und Handtücher für 1,50 € (klein) bzw. 2 € (groß) ausgeliehen werden.
+
+## Anfahrt
+Wir werden uns am Freitagmorgen in Werder (Havel) am Bahnhof treffen. Dort wird unser Gepäck abgeholt und wir fahren mit dem Bus weiter und müssen dann noch ein Stück laufen. Das ist alles im Berliner ABC-Bereich, ihr könnt also mit eurem Studierendenausweis kostenneutral anreisen. Wer möchte, kann auch ab Potsdam mit dem Fahrrad fahren (~13 km). Dort treffen wir uns auch und das Gepäck wird dort ebenfalls abgeholt.
+
+## Anmeldung
+[<button>Anmelden könnt ihr euch hier.</button>](https://goo.gl/forms/n1Sb0TJ07CfoYDBR2 "Anmeldung")
+
+Meldet euch am besten möglichst bald an, die Plätze sind begrenzt. Ihr könnt uns auch gerne einfach schon mal unsere Daten schicken, wenn ihr euch noch nicht ganz sicher seid. Gebt das dann bitte mit an. Dafür habt ihr drei Möglichkeiten:
+
+1. [In der Mailingliste](https://lists.physik.tu-berlin.de/mailman/listinfo/erstifahrt "Erstifahrt-Mailingliste") solltet ihr bei der Anmeldung (oder später) eine Mail bekommen haben, in der die Kontodaten angegeben sind, an die ihr das Geld überweisen könnt.
+
+2. Ihr könnt in der Uni bar bezahlen. In der Ini Physik im Raum EW 023 (Physikgebäude) sind oft Leute, bei denen könnt ihr bezahlen. (Dabei solltet ihr eine Quittung bekommen. Besteht da am besten drauf, damit wir nachher wissen, wer genau was bezahlt hat.) Die Ini ist leider gerade in der vorlesungsfreien Zeit nicht ständig besetzt. Die Ini wird aber im Oktober an Wochentagen von 14 bis 16 Uhr garantiert da sein. Ansonsten ruft doch mal vorher mal an (030/314-22070), nicht dass ihr vor verschlossener Tür steht.
+
+3. Ihr bezahlt am Tag der Ersti-Veranstaltung bar bei uns. Diese findet am 11.10.17 ab 10 Uhr im Raum EW 201 (Physikgebäude) statt. Wir können zwar nicht garantieren, dass es dann noch Plätze gibt, aber wir sind zuversichtlich, dass wir auch dort noch Plätze zur Verfügung haben werden. Auch wenn ihr euch noch nicht sicher seid, bringt am 11.10. auf alle Fälle mal 20 € mit!
+
+
+## Kontakt
+Um uns zu erreichen, schickt einfach [eine Mail an Leo](mailto:leo.herrmann@physik.tu-berlin.de). <!--(Diese erreicht dann erstmal nur den Moderator/das Orga-Team.) -->
+
+
 
 ## Workshops
 * Praktika: [Grundpraktikum](http://www.ioap.tu-berlin.de/grundpraktikum/) und [Projektlabor](http://www.pl-physik.tu-berlin.de/menue/home/)
@@ -39,15 +61,7 @@ Auch wenn ihr euch noch nicht sicher seid, bringt am 11.10. auf alle Fälle mal 
 * Bachelor-Zweitis: u.a. weil es im Sommersemester keine Erstifahrt gibt
 * Master-Erstis, die neu an der TU sind: Auch diesen möchten wir Vernetzung und Anschluss zur TU bieten. Wir hatten letztes Jahr gute Erfahrungen damit gemacht. Das Programm richtet sich zwar mehr an Bachelor-Studierende, kann aber auch für Master-Erstis interessant sein.
 
-## Kontakt
-Um uns zu erreichen, schickt einfach [eine Mail an Leo](mailto:leo.herrmann@physik.tu-berlin.de). <!--(Diese erreicht dann erstmal nur den Moderator/das Orga-Team.) -->
-
-<!-- ## Abfahrt
-Wir werden am Freitag um **13:45 Uhr am Atomic** abfahren.
-Für alle die am Freitag GP haben, wird es einen weiteren Abfahrtstermin wahrscheinlich um 16 Uhr geben (Treffpunkt wieder am Atomic).
-Außerdem wird es noch einen dritten Treffpunkt geben, nämlich 15:20 Uhr in Königs Wusterhausen (bis dahin gilt das ABC-Studierenden-Ticket!) auf Gleis 3.
-
-## Allgemeines
+<!-- ## Allgemeines
 Wir werden im Voraus die Häuser aufteilen. Wir haben 7 6er-Häuser und eines davon ist für Organisator/innen reserviert. In jedem Haus wird es eine/n verantwortliche/n Teilnehmer/in geben, der/die den Schlüssel bekommt und sich an uns wendet, wenn es Schwierigkeiten gibt. Jede/r Verantwortliche hat eine/n eigene/n Ansprechpartner/in unter den Organisator/innen.
 
 Wer eine BahnCard hat, soll diese bitte unbedingt mitbringen, das macht die Anfahrt günstiger.
@@ -56,7 +70,7 @@ Zur Vernetzung gibt es außer der Mailingliste eine Whats'App- und [eine Faceboo
 
 ## Computer-Workshops
 Zu den Workshops könnt ihr bereits jetzt Programme herunterladen. Ihr könnt aber auch noch etwas abwarten, wir werden das später nochmal verteilen.
-**Die Sachen müssen definitiv vorab heruntergeladen werden! Das WLAN und das mobile Netz sind potentiell schlecht und unzuverlässig in Petzow** und gerade LaTeX braucht einfach große Datenmengen.
+**Die Sachen müssen definitiv vorab heruntergeladen werden! Wir haben kein WLAN und das mobile Netz ist schlecht und unzuverlässig in Petzow** und gerade LaTeX braucht einfach große Datenmengen.
 In einigen Workshops wollen wir euch Computerprogramme zeigen. Dazu braucht ihr einen eigenen Laptop, auf dem ihr vorher die Programme installiert habt. <!-- Kümmert euch da bitte bald drum. Wenn ihr dabei auf Schwierigkeiten stoßt, könnt ihr nächsten Donnerstag ab 16 Uhr bis 17:30 Uhr (bzw. bis alle Probleme geklärt sind) in den PC-Pool kommen und wir versuchen zu helfen, soweit wir das können. -->
 
 ### LaTeX
@@ -67,7 +81,7 @@ In einigen Workshops wollen wir euch Computerprogramme zeigen. Dazu braucht ihr 
 \* Im Übrigen dürft ihr gerne auch eine andere LaTeX-Version nutzen, einen eigenen Editor etc., wenn ihr das wollt. Unser Vorschlag ist nicht unbedingt besser, aber die Vielzahl an Möglichkeiten macht die Wahl gerade am Anfang nicht einfacher und ist vorerst eh nicht so wichtig. Aber wenn euch was stört, seid gern so frei, euch nach etwas anderem umzusehen.
 
 ### QtiPlot
-[Hier könnt ihr QtiPlot installieren.](https://www.physik.tu-berlin.de/qtiplot "QtiPlot") Allerdings müsst ihr dafür mit dem WLAN der Uni verbunden sein. Also meldet euch mit eurem tubIT-Account im Eduroam-WLAN der Uni an oder [legt euch einen VPN-Zugang an.](https://www.tubit.tu-berlin.de/menue/dienste/kommunikation_internet/vpn "Eine Anleitung")
+[Hier könnt ihr QtiPlot installieren.](https://www.physik.tu-berlin.de/qtiplot "QtiPlot") Allerdings müsst ihr dafür mit dem WLAN der Uni verbunden sein. Also meldet euch mit eurem tubIT-Account im Eduroam-WLAN der Uni an oder [legt euch einen VPN-Zugang an.](https://www.tubit.tu-berlin.de/menue/dienste/kommunikation_internet/vpn "Eine Anleitung") Euer Benutzername im WLAN der Uni ist tubIT-Benutzername@win.tu-berlin.de.
 
 
 ### Inkscape
