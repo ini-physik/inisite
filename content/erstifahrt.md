@@ -17,6 +17,8 @@ Die Erstifahrt ist dazu gedacht, dass ihr euch gegenseitig **kennenlernt** sowie
 * **Wo:** [KiEZ-Inselparadies in Petzow, Werder (Havel)](http://inselparadies-petzow.de "KiEZ-Inselparadies"), südwestlich von Berlin
 * **Preis:** 20 Euro
 
+**Wichtig: Die NidI-Plätze sind schon (fast) ausgebucht.** Tragt euch aber gerne noch ein, ihr kommt dann auf eine Nachrückerliste. **Bitte noch nicht überweisen.**
+
 [<button style="font-size: 1.3em;">Anmelden könnt ihr euch hier.</button>](https://goo.gl/forms/n1Sb0TJ07CfoYDBR2 "Anmeldung")
 
 ## Kosten
@@ -25,7 +27,7 @@ In dem Preis sind An- und Abreise, Unterkunft und Verpflegung enthalten. **Ihr s
 Falls benötigt können zusätzlich Bettwäsche für 5,50 € und Handtücher für 1,50 € (klein) bzw. 2 € (groß) ausgeliehen werden.
 
 ## Anfahrt
-Wir werden uns am Freitagmorgen in Werder (Havel) am Bahnhof treffen. Dort wird unser Gepäck abgeholt und wir fahren mit dem Bus weiter und müssen dann noch ein Stück laufen. Das ist alles im Berliner ABC-Bereich, ihr könnt also mit eurem Studierendenausweis kostenneutral anreisen. Wer möchte, kann auch ab Potsdam mit dem Fahrrad fahren (~13 km). Dort treffen wir uns auch und das Gepäck wird dort ebenfalls abgeholt.
+Wir werden uns am Freitagmorgen in Werder (Havel) am Bahnhof treffen. Dort wird unser Gepäck **leider nicht** abgeholt und wir fahren mit dem Bus weiter und müssen dann noch ein Stück laufen. Das ist alles im Berliner ABC-Bereich, ihr könnt also mit eurem Studierendenausweis kostenneutral anreisen. Wer möchte, kann auch ab Potsdam mit dem Fahrrad fahren (~13 km). Dort treffen wir uns auch und das Gepäck wird dort **weiterhin** abgeholt.
 
 ## Anmeldung
 [<button>Anmelden könnt ihr euch hier.</button>](https://goo.gl/forms/n1Sb0TJ07CfoYDBR2 "Anmeldung")
@@ -50,6 +52,7 @@ Um uns zu erreichen, schickt einfach [eine Mail an Leo](mailto:leo.herrmann@phys
 * LaTeX
 * Inkscape
 * QtiPlot
+* Was ist eigentlich Uni?
 * Hochschulpolitik
 * Outside Activities
 <!-- * Frauen in der Forschung -->
@@ -87,6 +90,9 @@ In einigen Workshops wollen wir euch Computerprogramme zeigen. Dazu braucht ihr 
 ### Inkscape
 [Inkscape ladet ihr hier herunter.](https://inkscape.org/en/download "Inkscape")
 
+## Gibt es auch für finanziell schlechter gestellte Erstis die Möglichkeit mitzufahren?
+
+Teilnehmer, für die der Teilnahmebeitrag für die Fahrt eine erhebliche Belastung ist, können beim Orgateam eine Erstattung beantragen. <!-- Diese wird solidarisch von allen getragen. --> Wenn du eine Erstattung für die Erstifahrt beantragen möchtest, melde dich während des Anmeldezeitraums möglichst frühzeitig beim Orgateam und schildere ihm deine Einkommenssituation bzw. die Einkommenssituation Deiner Eltern. Das Orgateam wird dann unter Berücksichtigung der Finanzlage der Erstifahrt über deinen Antrag entscheiden. Am Geld soll's nicht scheitern!
 
 Wenn ihr irgendwelche Fragen habt, stellt sie gerne!
 
