@@ -17,7 +17,7 @@ Die Erstifahrt ist dazu gedacht, dass ihr euch gegenseitig **kennenlernt** sowie
 * **Wo:** [KiEZ-Inselparadies in Petzow, Werder (Havel)](http://inselparadies-petzow.de "KiEZ-Inselparadies"), südwestlich von Berlin
 * **Preis:** 20 Euro
 
-**Wichtig: Die NidI-Plätze sind schon (fast) ausgebucht.** Tragt euch aber gerne noch ein, ihr kommt dann auf eine Nachrückerliste. **Bitte noch nicht überweisen.**
+**Wichtig: Die NidI-Plätze sind schon ausgebucht.** Tragt euch aber gerne noch ein, ihr kommt dann auf eine Nachrückerliste. **Bitte noch nicht überweisen.**
 
 [<button style="font-size: 1.3em;">Anmelden könnt ihr euch hier.</button>](https://goo.gl/forms/n1Sb0TJ07CfoYDBR2 "Anmeldung")
 
