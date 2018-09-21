@@ -86,7 +86,13 @@
 }
 
 #erstifahrt {
+	background-color: #57f;
 	padding: 40px;
+	color: #fff;
+}
+
+#erstifahrt a {
+	color: #dd5d5d;
 }
 
 #iniyourface {
