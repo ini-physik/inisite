@@ -13,23 +13,43 @@ Die Erstifahrt ist dazu gedacht, dass ihr euch gegenseitig **kennenlernt** sowie
 * **Wann:** Freitag, 12.10. vormittags - Sonntag, 14.10.2018 nachmittags
 * **Wo:** [KiEZ-Inselparadies in Petzow, Werder (Havel)](http://inselparadies-petzow.de "KiEZ-Inselparadies"), südwestlich von Berlin
 * **Preis:** 20 Euro
+* [Programm](/static/img/erstifahrt-programm.pdf "Programm")
 
 [<button style="font-size: 1.3em;">Anmelden könnt ihr euch hier.</button>](https://erstifahrt.coliza.de/ "Anmeldung")
 
 ## Kosten
 In dem Preis sind An- und Abreise, Unterkunft und Verpflegung enthalten. **Ihr seid erst dann sicher dabei, wenn ihr die Fahrt bezahlt habt.** Wie das geht, lest ihr weiter unten. ↓
-Falls benötigt, <!-- können --> kann zusätzlich Bettwäsche für 5,50 € und Handtücher für 3 € (klein+groß) ausgeliehen werden.
+Falls benötigt, können zusätzlich Bettwäsche für 5,50 € und Handtücher für 3 € (klein+groß) ausgeliehen werden.
 ## Anfahrt
-Wir werden uns am Freitagmorgen in Werder (Havel) am Bahnhof treffen. Dort <!--wird unser Gepäck **leider nicht** abgeholt und wir--> fahren wir mit dem Bus weiter und müssen dann noch ein Stück laufen. Das ist alles im Berliner ABC-Bereich, ihr könnt also mit eurem Studierendenausweis kostenneutral anreisen. Wer möchte, kann auch ab Potsdam mit dem Fahrrad fahren (~13 km). Dort treffen wir uns auch und das Gepäck wird dort möglicherweise abgeholt.
+Wir treffen uns am Freitag (12.10.) um 11 Uhr am Gleis 13, Berlin Hbf. Der Zug fährt um 11:11 ab, daher seid bitte pünktlich.
+Alternativ könnt ihr auch einfach [an einem der Zwischenhalte der Bahn](https://reiseauskunft.bahn.de/bin/traininfo.exe/dn/553746/374318/532154/81495/80?ld=40119&protocol=https:&seqnr=4&ident=e8.020813119.1538724850&date=12.10.18&station_evaId=8011160&station_type=dep&currentReferrer=tp&rt=1&rtMode=DB-HYBRID&&time=11:11#HIMMessage "DB-Fahrplan des Zuges") dazusteigen.
+Die Zwischenhalte sind 11:16 am Zoo, 11:20 in Charlottenburg und 11:29 in Wannsee.
+Von dort geht es mit dem RE 1 nach Potsdam. Dort steigen die Leute, die mit dem Fahrrad fahren wollen, aus.
+Ein alternativer Treffpunkt für die Fahrradgruppe ist 11:40 dort am Hbf.
+Der Rest fährt mit dem Zug weiter nach Werder. Dort nehmen wir den Bus 631 bis Holländermühle. Von dort an geht es das letzte Stück zu Fuß zum Inselparadies Petzow (s.u.). 
+
+
+Wer möchte, kann auch ab Potsdam mit dem Fahrrad fahren (~13 km). Die Fahrradfahrer fahren mit dem gleichen Zug, treffen sich also ebenfalls um 11:00 am Gleis 13 am Hbf Berlin.
+Wir fahren gemeinsam mit dem RE1 bis zum Hauptbahnhof Potsdam (man kann auch um 11:40 vorm Hbf Potsdam sein), von wo aus wir dann mit Rad nach Petzow fahren.
+Nehmt bitte nur so viel Gepäck mit wie ihr selber auf eurem Rad tragen könnt, denn ein Gepäcktransport wird uns wahrscheinlich nicht zur Verfügung stehen.
+
+Falls ihr die Anfahrt selbst organisieren wollt, ist anbei eine Karte [und hier müsst ihr hin](http://inselparadies-petzow.de/unser-kiez/anreise.html "Anreise KiEZ Inselparadies"):
+
+<img src="/static/img/erstifahrt-anfahrt.png" alt="Anfahrt" style="width: 50%">
+
+Das ist alles im Berliner ABC-Bereich, ihr könnt also mit eurem Studierendenausweis kostenneutral anreisen.
+
+Bitte beachtet, dass es am Freitag aus Kosten- und Zeitgründen keine warme Mahlzeit geben wird.
+
 ## Anmeldung
-[<button>Anmelden könnt ihr euch hier.</button>](https://goo.gl/forms/n1Sb0TJ07CfoYDBR2 "Anmeldung")
+[<button>Anmelden könnt ihr euch hier.</button>](https://erstifahrt.coliza.de/ "Anmeldung")
 
 Meldet euch am besten möglichst bald an, die Plätze sind begrenzt. Ihr könnt uns auch gerne einfach schon mal unsere Daten schicken, wenn ihr euch noch nicht ganz sicher seid. Gebt das dann bitte mit an.
 
 Zur Vernetzung gibt es:
 
 1. [Eine Mailingliste](https://lists.physik.tu-berlin.de/mailman/listinfo/erstifahrt "Erstifahrt-Mailingliste"), für die ihr euch bitte **alle** anmeldet!
-2. [Eine Whats'App-Gruppe](https://chat.whatsapp.com/invite/64IrYiaRbInDmNpXF2NsbX).
+2. [Eine Whats'App-Gruppe](https://chat.whatsapp.com/64IrYiaRbInDmNpXF2NsbX).
 3. [Ein Facebook-Event](https://www.facebook.com/events/2224621617751379).
 
 ## Bezahlung
@@ -49,6 +69,7 @@ Wenn ihr irgendwelche Fragen habt, stellt sie gerne!
 Wir werden im Voraus die Häuser aufteilen. Wir haben 7 6er-Häuser und eines davon ist für Organisator/innen reserviert. In jedem Haus wird es eine/n verantwortliche/n Teilnehmer/in geben, der/die den Schlüssel bekommt und sich an uns wendet, wenn es Schwierigkeiten gibt. Jede/r Verantwortliche hat eine/n eigene/n Ansprechpartner/in unter den Organisator/innen.
 Wer eine BahnCard hat, soll diese bitte unbedingt mitbringen, das macht die Anfahrt günstiger. -->
 ## Workshops
+Ihr findet das [vollständige Programm samt Zeiten hier](/static/img/erstifahrt-programm.pdf "Programm").
 
 * Praktika: [Grundpraktikum](http://www.ioap.tu-berlin.de/grundpraktikum/) und [Projektlabor](http://www.pl-physik.tu-berlin.de/menue/home/)
 * Wahlfächer
@@ -57,7 +78,7 @@ Wer eine BahnCard hat, soll diese bitte unbedingt mitbringen, das macht die Anfa
 * kein Inkscape
 * Was ist eigentlich Uni?
 * Ini & Hochschulpolitik
-* TODO Frauen in der Forschung
+* Frauen in der Forschung
 * CoMa (Computerorientierte Mathematik, wichtig für NidIs\*)
 * Ausland
 * Studienfinanzierung
