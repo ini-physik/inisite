@@ -53,12 +53,8 @@ Zur Vernetzung gibt es:
 3. [Ein Facebook-Event](https://www.facebook.com/events/2224621617751379).
 
 ## Bezahlung
-Die Plätze sind begrenzt und eurer ist euch erst nach der Bezahlung sicher. Erledigt das also möglichst zügig
-Dafür habt ihr drei Möglichkeiten:
-
-1. Per Überweisung: [In der Mailingliste](https://lists.physik.tu-berlin.de/mailman/listinfo/erstifahrt "Erstifahrt-Mailingliste") solltet ihr bei der Anmeldung (oder später) eine Mail bekommen haben, in der die Kontodaten angegeben sind, an die ihr das Geld **bis zum 7.10.** überweisen könnt.
-2. Per PayPal: In der gleichen Mail ist auch ein Link angegeben, über den ihr uns das Geld via PayPal **bis zum 8.10.** zukommen lassen könnt.
-3. Ihr bezahlt am Tag der Ersti-Veranstaltung bar bei uns. Diese findet für die NidIs\* am 9.10.18 ab 13 Uhr in Raum E 020 und für die Physiker am 10.10.18 ab 12 Uhr im Raum EW 201 (Physikgebäude) statt. Wir können zwar nicht garantieren, dass es dann noch Plätze gibt, aber wir sind sehr (!) zuversichtlich, dass wir auch dort noch Plätze zur Verfügung haben werden. Auch wenn ihr euch noch nicht sicher seid, bringt an dem Tag auf alle Fälle mal 20 € mit!
+Euer Platz ist euch erst nach der Bezahlung sicher. Wir haben aber viele Plätze, sodass wir hoffentlich alle Interessent\*innen mitnehmen können.
+**Ihr bezahlt am Tag der Ersti-Veranstaltung bar bei uns.** Diese findet für die NidIs\* am 9.10.18 ab 13 Uhr in Raum E 020 und für die Physiker am 10.10.18 ab 12 Uhr im Raum EW 201 (Physikgebäude) statt. Auch wenn ihr euch noch nicht sicher seid, bringt an dem Tag auf alle Fälle mal 20 € mit! Wenn ihr den Termin verpasst habt, **meldet euch einfach bei uns** und wir klären, wie ihr mitkommen könnt (wir haben bestimmt noch Plätze frei).
 
 Ihr könnt auch Leo und Nele stalken, ihnen in der Uni auflauern und ihnen dann das Geld geben. Geht auch.
 
@@ -98,11 +94,12 @@ Zu den Workshops solltet ihr bereits jetzt Programme herunterladen.
 **Die Sachen müssen definitiv vorab heruntergeladen werden! Wir haben kein WLAN und das mobile Netz ist schlecht und unzuverlässig in Petzow** und gerade LaTeX braucht einfach große Datenmengen.
 In einigen Workshops wollen wir euch Computerprogramme zeigen. Dazu braucht ihr einen eigenen Laptop, auf dem ihr vorher die Programme installiert habt. <!-- Kümmert euch da bitte bald drum. Wenn ihr dabei auf Schwierigkeiten stoßt, könnt ihr nächsten Donnerstag ab 16 Uhr bis 17:30 Uhr (bzw. bis alle Probleme geklärt sind) in den PC-Pool kommen und wir versuchen zu helfen, soweit wir das können. -->
 ### LaTeX
-* [Zuerst könnt ihr z.B. MikTex herunterladen, sofern ihr Windows habt.](http://miktex.org/download "MikTex") *
+* [Zuerst könnt ihr z.B. MikTex herunterladen, sofern ihr Windows habt.](http://miktex.org/download "MikTex") \*\*
 * [Für Mac gibt es z.B. MacTex.](https://tug.org/mactex/mactex-download.html "MacTex")
 * [TeXstudio: Geht bitte auf „Download“ und sucht den Download für das Betriebssytem eures Laptops aus.](http://www.texstudio.org "TeXstudio")
 
-\* Im Übrigen dürft ihr gerne auch eine andere LaTeX-Version nutzen, einen eigenen Editor etc., wenn ihr das wollt. Unser Vorschlag ist nicht unbedingt besser, aber die Vielzahl an Möglichkeiten macht die Wahl gerade am Anfang nicht einfacher und ist vorerst eh nicht so wichtig. Aber wenn euch was stört, seid gern so frei, euch nach etwas anderem umzusehen.
+\*\* Im Übrigen dürft ihr gerne auch eine andere LaTeX-Version nutzen, einen eigenen Editor etc., wenn ihr das wollt. Unser Vorschlag ist nicht unbedingt besser, aber die Vielzahl an Möglichkeiten macht die Wahl gerade am Anfang nicht einfacher und ist vorerst eh nicht so wichtig. Aber wenn euch was stört, seid gern so frei, euch nach etwas anderem umzusehen.
+
 ### QtiPlot
 [Hier könnt ihr QtiPlot installieren.](https://www.physik.tu-berlin.de/qtiplot "QtiPlot") Allerdings müsst ihr dafür mit dem WLAN der Uni verbunden sein. Also meldet euch mit eurem tubIT-Account im Eduroam-WLAN der Uni an oder [legt euch einen VPN-Zugang an.](https://www.tubit.tu-berlin.de/menue/dienste/kommunikation_internet/vpn "Eine Anleitung") Euer Benutzername im WLAN der Uni ist tubIT-Benutzername@win.tu-berlin.de.
 ### Inkscape
