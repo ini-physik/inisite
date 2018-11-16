@@ -43,7 +43,7 @@ Im Prüfungsprotokoll sollten folgende Punkte enthalten sein:
 ## Vorlagen
 
 * [LaTeX Vorlage](http://ini.physik.tu-berlin.de/vorlagen/vorlage.tex)
-* [Open-/LirbeOffice Vorlage](http://ini.physik.tu-berlin.de/vorlagen/vorlage.odt)
+* [Open-/LibreOffice Vorlage](http://ini.physik.tu-berlin.de/vorlagen/vorlage.odt)
 * [Word Vorlage](http://ini.physik.tu-berlin.de/vorlagen/vorlage.doc)
 
 ## Altklausuren
