@@ -17,6 +17,25 @@ title_color: "#dd5d5d"
 </style>
 <div class="row">
         <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
+                <img src="/static/img/iniyourface/timo.jpg" alt="Timo Prinz" class="img-circle iyf-heads center-block">
+                <h3>Timo Prinz</h3>
+                <span>
+                        <ul>
+                                <li>Institutsrat des Institutes für Optik und Atomare Physik (Stellv.)</li>
+                        </ul>
+                </span>
+        </div>
+        <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
+                <img src="/static/img/iniyourface/chiara.jpg" alt="Chiara Mielau" class="img-circle iyf-heads center-block">
+                <h3>Chiara Mielau</h3>
+                <span>
+                        <ul>
+                                <li>Institutsrat des Institutes für Optik und Atomare Physik</li>
+                        </ul>
+                </span>
+        </div>
+</div>
+        <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
                 <img src="/static/img/iniyourface/mascha.jpg" alt="Mascha Schlungbaum" class="img-circle iyf-heads center-block">
                 <h3>Mascha Schlungbaum</h3>
                 <span>
@@ -58,7 +77,7 @@ title_color: "#dd5d5d"
                         <ul>
                                 <li>Protokollausleihe</li>
                                 <li>Physikkommission</li>
-                                <li>Prüfungsausschuss</li>
+                                <li>Institutsrat des Institutes für Festkörperphysik (Stellv.)</li>
                         </ul>
                 </span>
         </div>
