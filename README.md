@@ -4,10 +4,10 @@ Die Website der Ini Physik
 # To get started
 - Fork this Repro on github
 - Download it
-git clone xxx
+  `git clone xxx`
 - Install  
-hugo 
+  `hugo` 
 - Run  
-hugo server -D
+  `hugo server -D`
 - Go to  
-http://localhost:1313/
+  `http://localhost:1313/`
