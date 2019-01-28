@@ -3,7 +3,7 @@ Die Website der Ini Physik
 
 # To get started
 - Fork this Repro on github
-- Download it
+- Download it  
   `git clone xxx`
 - Install  
   `hugo` 
