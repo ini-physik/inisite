@@ -53,6 +53,7 @@ title_color: "#dd5d5d"
                 </span>
         </div>
 </div>
+<div class="row">
         <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
                 <img src="/static/img/iniyourface/mascha.jpg" alt="Mascha Schlungbaum" class="img-circle iyf-heads center-block">
                 <h3>Mascha Schlungbaum</h3>
