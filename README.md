@@ -1,5 +1,5 @@
 # inisite
-Die Website der Ini Physik
+Die schöne Website der Ini Physik
 
 # To get started
 - Fork this Repro on github
