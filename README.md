@@ -15,5 +15,5 @@ Die schöne Website der Ini Physik
 
 # iniyourface
 - Pictures should be sized to
-  `300x300`
+  `300x300px`
 - Each row contains 4 individuals
