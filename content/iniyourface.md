@@ -16,12 +16,23 @@ title_color: "#dd5d5d"
 }
 </style>
 <div class="row">
+        <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
+                <img src="/static/img/iniyourface/erik.jpg" alt="Erik vor den Tharen" class="img-circle iyf-heads center-block">
+                <h3>Erik vor den Tharen</h3>
+                <span>
+                        <ul>
+                                <li>Institutsrat des Institutes für Festkörperphysik</li>
+                                <li>Akademischen Senat</li>
+                                <li>Fakultätsrat der Physik</li>
+                        </ul>
+                </span>
+        </div>
          <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
                 <img src="/static/img/iniyourface/philipp.jpg" alt="Philipp Stammer" class="img-circle iyf-heads center-block">
                 <h3>Philipp Stammer</h3>
                 <span>
                         <ul>
-                                <li>Institutsrat des Institutes für Festkörperphysik (Stellv.)</li>
+                                <li>Institutsrat des Institutes für Festkörperphysik</li>
                         </ul>
                 </span>
         </div>       
@@ -30,7 +41,7 @@ title_color: "#dd5d5d"
                 <h3>Niklas Himbur</h3>
                 <span>
                         <ul>
-                                <li>Institutsrat des Institutes für Festkörperphysik (Stellv.)</li>
+                                <li>Institutsrat des Institutes für Festkörperphysik</li>
                         </ul>
                 </span>
         </div>       
@@ -39,21 +50,10 @@ title_color: "#dd5d5d"
                 <h3>Ammar Nouralla</h3>
                 <span>
                         <ul>
-                                <li>Institutsrat des Institutes für Festkörperphysik (Stellv.)</li>
+                                <li>Institutsrat des Institutes für Festkörperphysik</li>
                         </ul>
                 </span>
         </div>       
-        <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
-                <img src="/static/img/iniyourface/erik.jpg" alt="Erik vor den Thoren" class="img-circle iyf-heads center-block">
-                <h3>Erik vor den Thoren</h3>
-                <span>
-                        <ul>
-                                <li>Institutsrat des Institutes für Festkörperphysik</li>
-                                <li>Mitglied im Akademischen Senat (Stellv.)</li>
-                                <li>Fakultätsrat der Physik (Stellv.)</li>
-                        </ul>
-                </span>
-        </div>
 </div>
 <div class="row">
         <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
@@ -70,7 +70,8 @@ title_color: "#dd5d5d"
                 <h3>Timo Prinz</h3>
                 <span>
                         <ul>
-                                <li>Institutsrat des Institutes für Optik und Atomare Physik (Stellv.)</li>
+                                <li>Institutsrat des Institutes für Optik und Atomare Physik</li>
+                                <li>Akademischer Senat</li>
                         </ul>
                 </span>
         </div>
@@ -79,7 +80,7 @@ title_color: "#dd5d5d"
                 <h3>Jonathan Hofmann</h3>
                 <span>
                         <ul>
-                                <li>Institutsrat des Institutes für Festkörperphysik (Stellv.)</li>
+                                <li>Institutsrat des Institutes für Festkörperphysik</li>
                         </ul>
                 </span>
         </div>
@@ -88,7 +89,7 @@ title_color: "#dd5d5d"
                 <h3>Robin Kraft</h3>
                 <span>
                         <ul>
-                                <li>Institutsrat des Institutes für Optik und Atomare Physik (Stellv.)</li>
+                                <li>Institutsrat des Institutes für Optik und Atomare Physik</li>
                         </ul>
                 </span>
         </div>
@@ -100,7 +101,6 @@ title_color: "#dd5d5d"
                 <span>
                         <ul>
                                 <li>Ausbildungskommission</li>
-                                <li>Akademischer Senat</li>
                                 <li>Prüfungsausschuss</li>
                                 <li>Vernetzung mit anderen Physikfachschaften</li>
                                 <li>Koordination der ZaPF 2017 in Berlin</li>
@@ -113,7 +113,7 @@ title_color: "#dd5d5d"
                 <span>
                         <ul>
                                 <li>Physik Kommission</li>
-                                <li>StuPa</li>
+                                <li>Studierenden Parlament</li>
                         </ul>
                 </span>
         </div>
@@ -122,8 +122,9 @@ title_color: "#dd5d5d"
                 <h3>Konstantin Wenzel</h3>
                 <span>
                         <ul>
-                                <li>Ausbildungskommission</li>
-                                <li>Atomic-Kommunikation</li>
+                                <li>Vorsitzender der Ausbildungskommission</li>
+                                <li>Physikkommission</li>
+                                <li>Akademischer Senat</li>
                                 <li>Website</li>
                                 <li>Erstiplanung</li>
                         </ul>
@@ -136,7 +137,7 @@ title_color: "#dd5d5d"
                         <ul>
                                 <li>Protokollausleihe</li>
                                 <li>Physikkommission</li>
-                                <li>Institutsrat des Institutes für Festkörperphysik (Stellv.)</li>
+                                <li>Institutsrat des Institutes für Festkörperphysik</li>
                         </ul>
                 </span>
         </div>
@@ -172,7 +173,7 @@ title_color: "#dd5d5d"
                 <span>
                         <ul>
                                 <li>IT</li>
-                                <li>StuPa</li>
+                                <li>Studierenden Parlament</li>
                                 <li>ZaPF Kram (TOPF Deckel)</li>
                                 <li>Ausbildungskommission</li>
                         </ul>
@@ -214,7 +215,7 @@ title_color: "#dd5d5d"
                 <h3>Lucas Kluge</h3>
                 <span>
                         <ul>
-                                <li>Stupa</li>
+                                <li>Studierenden Parlament</li>
                         </ul>
                 </span>
         </div>
@@ -223,6 +224,7 @@ title_color: "#dd5d5d"
                 <h3>Paul Müller</h3>
                 <span>
                         <ul>
+                                <li>Studierenden Parlament</li>
                                 <li>Küken</li>
                         </ul>
                 </span>

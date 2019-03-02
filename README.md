@@ -12,3 +12,8 @@ Die schöne Website der Ini Physik
   `hugo server -D`
 - Go to  
   `http://localhost:1313/`
+
+# iniyourface
+- Pictures should be sized to
+  `300x300`
+- Each row contains 4 individuals
