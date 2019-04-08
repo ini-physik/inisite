@@ -17,25 +17,90 @@ title_color: "#dd5d5d"
 </style>
 <div class="row">
         <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
-                <img src="/static/img/iniyourface/matti.jpg" alt="Matti Moell" class="img-circle iyf-heads center-block">
-                <h3>Matti Moell</h3>
+                <img src="/static/img/iniyourface/chiara.jpg" alt="Chiara Mielau" class="img-circle iyf-heads center-block">
+                <h3>Chiara Mielau</h3>
                 <span>
                         <ul>
-                                <li>Admin</li>
-                                <li>Physik Kommission</li>
-                                <li>StuPa</li>
-                                <li>Fakultätsrat</li>
+                                <li>Institutsrat des Institutes für Optik und Atomare Physik</li>
                         </ul>
                 </span>
         </div>
+        <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
+                <img src="/static/img/iniyourface/timo.jpg" alt="Timo Prinz" class="img-circle iyf-heads center-block">
+                <h3>Timo Prinz</h3>
+                <span>
+                        <ul>
+                                <li>Institutsrat des Institutes für Optik und Atomare Physik</li>
+                                <li>Akademischer Senat</li>
+                        </ul>
+                </span>
+        </div>
+        <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
+                <img src="/static/img/iniyourface/jonathan.jpg" alt="Jonathan Hofmann" class="img-circle iyf-heads center-block">
+                <h3>Jonathan Hofmann</h3>
+                <span>
+                        <ul>
+                                <li>Institutsrat des Institutes für Festkörperphysik</li>
+                        </ul>
+                </span>
+        </div>
+        <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
+                <img src="/static/img/iniyourface/robin.jpg" alt="Robin Kraft" class="img-circle iyf-heads center-block">
+                <h3>Robin Kraft</h3>
+                <span>
+                        <ul>
+                                <li>Institutsrat des Institutes für Optik und Atomare Physik</li>
+                        </ul>
+                </span>
+        </div>
+</div>
+<div class="row">
+        <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
+                <img src="/static/img/iniyourface/erik.jpg" alt="Erik vor den Tharen" class="img-circle iyf-heads center-block">
+                <h3>Erik vor den Tharen</h3>
+                <span>
+                        <ul>
+                                <li>Institutsrat des Institutes für Festkörperphysik</li>
+                                <li>Akademischen Senat</li>
+                                <li>Fakultätsrat der Physik</li>
+                        </ul>
+                </span>
+        </div>
+        <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
+                <img src="/static/img/iniyourface/ammar.jpg" alt="Ammar Nourallah" class="img-circle iyf-heads center-block">
+                <h3>Ammar Nouralla</h3>
+                <span>
+                        <ul>
+                                <li>Institutsrat des Institutes für Festkörperphysik</li>
+                        </ul>
+                </span>
+        </div>
+        <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
+                <img src="/static/img/iniyourface/niklas2.jpg" alt="Niklas Himburg" class="img-circle iyf-heads center-block">
+                <h3>Niklas Himbur</h3>
+                <span>
+                        <ul>
+                                <li>Institutsrat des Institutes für Festkörperphysik</li>
+                        </ul>
+                </span>
+        </div>
+        <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
+                <img src="/static/img/iniyourface/philipp.jpg" alt="Philipp Stammer" class="img-circle iyf-heads center-block">
+                <h3>Philipp Stammer</h3>
+                <span>
+                        <ul>
+                                <li>Institutsrat des Institutes für Festkörperphysik</li>
+                        </ul>
+                </span>
+        </div>
+</div>
+<div class="row">
         <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
                 <img src="/static/img/iniyourface/mascha.jpg" alt="Mascha Schlungbaum" class="img-circle iyf-heads center-block">
                 <h3>Mascha Schlungbaum</h3>
                 <span>
                         <ul>
                                 <li>Ausbildungskommission</li>
-                                <li>StAPF</li>
-                                <li>Akademischer Senat</li>
                                 <li>Prüfungsausschuss</li>
                                 <li>Vernetzung mit anderen Physikfachschaften</li>
                                 <li>Koordination der ZaPF 2017 in Berlin</li>
@@ -48,8 +113,7 @@ title_color: "#dd5d5d"
                 <span>
                         <ul>
                                 <li>Physik Kommission</li>
-                                <li>StuPa</li>
-                                <li>Eventmanagement</li>
+                                <li>Studierenden Parlament</li>
                         </ul>
                 </span>
         </div>
@@ -58,20 +122,11 @@ title_color: "#dd5d5d"
                 <h3>Konstantin Wenzel</h3>
                 <span>
                         <ul>
-                                <li>Atomic-Kommunikation</li>
+                                <li>Vorsitzender der Ausbildungskommission</li>
+                                <li>Physikkommission</li>
+                                <li>Akademischer Senat</li>
                                 <li>Website</li>
                                 <li>Erstiplanung</li>
-                        </ul>
-                </span>
-        </div>
-</div>
-<div class="row">
-        <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
-                <img src="/static/img/iniyourface/felix.jpg" alt="Felix Krüger" class="img-circle iyf-heads center-block">
-                <h3>Felix Krüger</h3>
-                <span>
-                        <ul>
-                                <li>Protokollausleihe</li>
                         </ul>
                 </span>
         </div>
@@ -82,10 +137,12 @@ title_color: "#dd5d5d"
                         <ul>
                                 <li>Protokollausleihe</li>
                                 <li>Physikkommission</li>
-                                <li>Prüfungsausschuss</li>
+                                <li>Institutsrat des Institutes für Festkörperphysik</li>
                         </ul>
                 </span>
         </div>
+</div>
+<div class="row">
         <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
                 <img src="/static/img/iniyourface/basti.jpg" alt="Sebastian Praetz" class="img-circle iyf-heads center-block">
                 <h3>Sebastian Praetz</h3>
@@ -93,24 +150,9 @@ title_color: "#dd5d5d"
                         <ul>
                                 <li>Fakultätsrat</li>
                                 <li>Ausbildungskommission</li>
-                                <li>StuPa</li>
                         </ul>
                 </span>
         </div>
-        <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
-                <img src="/static/img/iniyourface/niklas.jpg" alt="Niklas Kanold" class="img-circle iyf-heads center-block">
-                <h3>Niklas Kanold</h3>
-                <span>
-                        <ul>
-                                <li>Atomic Kommunikation</li>
-                                <li>Institutsrat des Institutes für Festkörperphysik</li>
-                                <li>StuPa</li>
-                                <li>Erstiplanung</li>
-                        </ul>
-                </span>
-	</div>
-</div>
-<div class="row">
         <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
                 <img src="/static/img/iniyourface/elli.jpg" alt="Elli Schlottmann" class="img-circle iyf-heads center-block">
                 <h3>Elli Schlottmann</h3>
@@ -131,7 +173,7 @@ title_color: "#dd5d5d"
                 <span>
                         <ul>
                                 <li>IT</li>
-                                <li>StuPa</li>
+                                <li>Studierenden Parlament</li>
                                 <li>ZaPF Kram (TOPF Deckel)</li>
                                 <li>Ausbildungskommission</li>
                         </ul>
@@ -148,6 +190,8 @@ title_color: "#dd5d5d"
                         </ul>
                 </span>
         </div>
+</div>
+<div class="row">
         <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
                 <img src="/static/img/iniyourface/emma.jpg" alt="Emma Sokoll" class="img-circle iyf-heads center-block">
                 <h3>Emma Sokoll</h3>
@@ -157,8 +201,6 @@ title_color: "#dd5d5d"
                         </ul>
                 </span>
         </div>
-</div>
-<div class="row">
         <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
                 <img src="/static/img/iniyourface/clara.jpg" alt="Clara R. Roca-Sastre" class="img-circle iyf-heads center-block">
                 <h3>Clara R. Roca-Sastre</h3>
@@ -173,7 +215,7 @@ title_color: "#dd5d5d"
                 <h3>Lucas Kluge</h3>
                 <span>
                         <ul>
-                                <li>Stupa</li>
+                                <li>Studierenden Parlament</li>
                         </ul>
                 </span>
         </div>
@@ -182,10 +224,13 @@ title_color: "#dd5d5d"
                 <h3>Paul Müller</h3>
                 <span>
                         <ul>
+                                <li>Studierenden Parlament</li>
                                 <li>Küken</li>
                         </ul>
                 </span>
         </div>
+</div>
+<div class="row">
         <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
                 <img src="/static/img/iniyourface/fj.jpg" alt="Franz-Josef Schmitt" class="img-circle iyf-heads center-block">
                 <h3>Franz-Josef Schmitt</h3>
@@ -198,23 +243,12 @@ title_color: "#dd5d5d"
                         </ul>
                 </span>
 	</div>
-</div>
-<div class="row">
         <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
                 <img src="/static/img/iniyourface/rafael.jpg" alt="Rafael Leonard" class="img-circle iyf-heads center-block">
                 <h3>Holger Eisele</h3>
                 <span>
                         <ul>
                                 <li>Urgroßvater</li>
-                        </ul>
-                </span>
-        </div>
-        <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
-               <img src="/static/img/iniyourface/philip.jpg" alt="Philipp Jung" class="img-circle iyf-heads center-block">
-                <h3>Philipp Jung</h3>
-                <span>
-                        <ul>
-                                <li>Ausbildungskommission</li>
                         </ul>
                 </span>
         </div>
@@ -227,17 +261,6 @@ title_color: "#dd5d5d"
                         </ul>
                 </span>
         </div>
-        <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
-                <img src="/static/img/iniyourface/tarek.jpg" alt="Tarek" class="img-circle iyf-heads center-block">
-                <h3>Tarek</h3>
-                <span>
-                        <ul>
-                                <li>StuPa</li>
-                        </ul>
-                </span>
-	</div>
-</div>
-<div class="row">
         <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
                 <img src="/static/img/iniyourface/regis.jpg" alt="Regis" class="img-circle iyf-heads center-block">
                 <h3>Regis</h3>
