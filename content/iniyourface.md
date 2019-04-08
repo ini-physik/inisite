@@ -17,46 +17,6 @@ title_color: "#dd5d5d"
 </style>
 <div class="row">
         <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
-                <img src="/static/img/iniyourface/erik.jpg" alt="Erik vor den Tharen" class="img-circle iyf-heads center-block">
-                <h3>Erik vor den Tharen</h3>
-                <span>
-                        <ul>
-                                <li>Institutsrat des Institutes für Festkörperphysik</li>
-                                <li>Akademischen Senat</li>
-                                <li>Fakultätsrat der Physik</li>
-                        </ul>
-                </span>
-        </div>
-         <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
-                <img src="/static/img/iniyourface/philipp.jpg" alt="Philipp Stammer" class="img-circle iyf-heads center-block">
-                <h3>Philipp Stammer</h3>
-                <span>
-                        <ul>
-                                <li>Institutsrat des Institutes für Festkörperphysik</li>
-                        </ul>
-                </span>
-        </div>       
-        <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
-                <img src="/static/img/iniyourface/niklas2.jpg" alt="Niklas Himburg" class="img-circle iyf-heads center-block">
-                <h3>Niklas Himbur</h3>
-                <span>
-                        <ul>
-                                <li>Institutsrat des Institutes für Festkörperphysik</li>
-                        </ul>
-                </span>
-        </div>       
-        <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
-                <img src="/static/img/iniyourface/ammar.jpg" alt="Ammar Nourallah" class="img-circle iyf-heads center-block">
-                <h3>Ammar Nouralla</h3>
-                <span>
-                        <ul>
-                                <li>Institutsrat des Institutes für Festkörperphysik</li>
-                        </ul>
-                </span>
-        </div>       
-</div>
-<div class="row">
-        <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
                 <img src="/static/img/iniyourface/chiara.jpg" alt="Chiara Mielau" class="img-circle iyf-heads center-block">
                 <h3>Chiara Mielau</h3>
                 <span>
@@ -90,6 +50,46 @@ title_color: "#dd5d5d"
                 <span>
                         <ul>
                                 <li>Institutsrat des Institutes für Optik und Atomare Physik</li>
+                        </ul>
+                </span>
+        </div>
+</div>
+<div class="row">
+        <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
+                <img src="/static/img/iniyourface/erik.jpg" alt="Erik vor den Tharen" class="img-circle iyf-heads center-block">
+                <h3>Erik vor den Tharen</h3>
+                <span>
+                        <ul>
+                                <li>Institutsrat des Institutes für Festkörperphysik</li>
+                                <li>Akademischen Senat</li>
+                                <li>Fakultätsrat der Physik</li>
+                        </ul>
+                </span>
+        </div>
+        <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
+                <img src="/static/img/iniyourface/ammar.jpg" alt="Ammar Nourallah" class="img-circle iyf-heads center-block">
+                <h3>Ammar Nouralla</h3>
+                <span>
+                        <ul>
+                                <li>Institutsrat des Institutes für Festkörperphysik</li>
+                        </ul>
+                </span>
+        </div>
+        <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
+                <img src="/static/img/iniyourface/niklas2.jpg" alt="Niklas Himburg" class="img-circle iyf-heads center-block">
+                <h3>Niklas Himbur</h3>
+                <span>
+                        <ul>
+                                <li>Institutsrat des Institutes für Festkörperphysik</li>
+                        </ul>
+                </span>
+        </div>
+        <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
+                <img src="/static/img/iniyourface/philipp.jpg" alt="Philipp Stammer" class="img-circle iyf-heads center-block">
+                <h3>Philipp Stammer</h3>
+                <span>
+                        <ul>
+                                <li>Institutsrat des Institutes für Festkörperphysik</li>
                         </ul>
                 </span>
         </div>
