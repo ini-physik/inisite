@@ -17,6 +17,85 @@ title_color: "#dd5d5d"
 </style>
 <div class="row">
         <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
+                <img src="/static/img/iniyourface/mascha.jpg" alt="Mascha Schlungbaum" class="img-circle iyf-heads center-block">
+                <h3>Mascha Schlungbaum</h3>
+                <span>
+                        <ul>
+                                <li>Ausbildungskommission</li>
+                                <li>Prüfungsausschuss</li>
+                                <li>Vernetzung mit anderen Physikfachschaften</li>
+                                <li>Koordination der ZaPF 2017 in Berlin</li>
+                        </ul>
+                </span>
+        </div>
+        <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
+                <img src="/static/img/iniyourface/konsti.jpg" alt="Konstantin Wenzel" class="img-circle iyf-heads center-block">
+                <h3>Konstantin Wenzel</h3>
+                <span>
+                        <ul>
+                                <li>Vorsitzender der Ausbildungskommission</li>
+                                <li>Physikkommission</li>
+                                <li>Prüfungsausschuss</li>
+                                <li>Studierendenparlament</li>
+                                <li>Akademischer Senat</li>
+                                <li>Website</li>
+                        </ul>
+                </span>
+        </div>
+        <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
+                <img src="/static/img/iniyourface/erik.jpg" alt="Erik vor den Tharen" class="img-circle iyf-heads center-block">
+                <h3>Erik vor den Tharen</h3>
+                <span>
+                        <ul>
+                                <li>Fakultätsrat der Physik</li>
+                                <li>Queer-Referat im AStA</li>
+                                <li>Akademischen Senat</li>
+                                <li>Institutsrat des Institutes für Festkörperphysik</li>
+                        </ul>
+                </span>
+        </div>
+        <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
+                <img src="/static/img/iniyourface/timo.jpg" alt="Timo Prinz" class="img-circle iyf-heads center-block">
+                <h3>Timo Prinz</h3>
+                <span>
+                        <ul>
+                                <li>Fakultätsrat</li>
+                                <li>Physikkommission</li>
+                                <li>Akademischer Senat</li>
+                                <li>Institutsrat des Institutes für Optik und Atomare Physik</li>
+                                <li>Akademischer Senat</li>
+                                <li>Haushaltsausschuss Fakultät II</li>
+                                <li>ZaPF-ToPF-Deckel</li>
+                                <li>Ausbildungskommission</li>
+                        </ul>
+                </span>
+        </div>
+</div>
+<div class="row">
+        <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
+                <img src="/static/img/iniyourface/eddi.jpg" alt="Eddie Geer" class="img-circle iyf-heads center-block">
+                <h3>Eddie Geer</h3>
+                <span>
+                        <ul>
+                                <li>Protokollausleihe</li>
+                                <li>Physikkommission</li>
+                                <li>Institutsrat des Institutes für Festkörperphysik</li>
+                        </ul>
+                </span>
+        </div>
+        <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
+                <img src="/static/img/iniyourface/fabs.jpg" alt="Fabs" class="img-circle iyf-heads center-block">
+                <h3>Fabs</h3>
+                <span>
+                        <ul>
+                                <li>IT</li>
+                                <li>Studierenden Parlament</li>
+                                <li>ZaPF Kram (TOPF Deckel)</li>
+                                <li>Ausbildungskommission</li>
+                        </ul>
+                </span>
+        </div>
+        <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
                 <img src="/static/img/iniyourface/leo.jpg" alt="Leo Herrmann" class="img-circle iyf-heads center-block">
                 <h3>Leo Herrmann</h3>
                 <span>
@@ -42,91 +121,14 @@ title_color: "#dd5d5d"
                         </ul>
                 </span>
         </div>
-        <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
-                <img src="/static/img/iniyourface/mascha.jpg" alt="Mascha Schlungbaum" class="img-circle iyf-heads center-block">
-                <h3>Mascha Schlungbaum</h3>
-                <span>
-                        <ul>
-                                <li>Ausbildungskommission</li>
-                                <li>Prüfungsausschuss</li>
-                                <li>Vernetzung mit anderen Physikfachschaften</li>
-                                <li>Koordination der ZaPF 2017 in Berlin</li>
-                        </ul>
-                </span>
-        </div>
-        <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
-                <img src="/static/img/iniyourface/konsti.jpg" alt="Konstantin Wenzel" class="img-circle iyf-heads center-block">
-                <h3>Konstantin Wenzel</h3>
-                <span>
-                        <ul>
-                                <li>Vorsitzender der Ausbildungskommission</li>
-                                <li>Physikkommission</li>
-                                <li>Akademischer Senat</li>
-                                <li>Website</li>
-                        </ul>
-                </span>
-        </div>
 </div>
 <div class="row">
-        <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
-                <img src="/static/img/iniyourface/eddi.jpg" alt="Eddie Geer" class="img-circle iyf-heads center-block">
-                <h3>Eddie Geer</h3>
-                <span>
-                        <ul>
-                                <li>Protokollausleihe</li>
-                                <li>Physikkommission</li>
-                                <li>Institutsrat des Institutes für Festkörperphysik</li>
-                        </ul>
-                </span>
-        </div>
-        <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
-                <img src="/static/img/iniyourface/erik.jpg" alt="Erik vor den Tharen" class="img-circle iyf-heads center-block">
-                <h3>Erik vor den Tharen</h3>
-                <span>
-                        <ul>
-                                <li>Fakultätsrat der Physik</li>
-                                <li>Queer-Referat im AStA</li>
-                                <li>Akademischen Senat</li>
-                                <li>Institutsrat des Institutes für Festkörperphysik</li>
-                        </ul>
-                </span>
-        </div>
-        <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
-                <img src="/static/img/iniyourface/timo.jpg" alt="Timo Prinz" class="img-circle iyf-heads center-block">
-                <h3>Timo Prinz</h3>
-                <span>
-                        <ul>
-                                <li>Fakultätsrat</li>
-                                <li>Physikkommission</li>
-                                <li>(erweiterter) Akademischer Senat</li>
-                                <li>Institutsrat des Institutes für Optik und Atomare Physik</li>
-                                <li>Akademischer Senat</li>
-                                <li>Haushaltsausschuss Fakultät II</li>
-                                <li>ZaPF-ToPF-Deckel</li>
-                                <li>Ausbildungskommission</li>
-                        </ul>
-                </span>
-        </div>
         <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
                 <img src="/static/img/iniyourface/basti.jpg" alt="Sebastian Praetz" class="img-circle iyf-heads center-block">
                 <h3>Sebastian Praetz</h3>
                 <span>
                         <ul>
                                 <li>Fakultätsrat</li>
-                                <li>Ausbildungskommission</li>
-                        </ul>
-                </span>
-        </div>
-</div>
-<div class="row">
-        <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
-                <img src="/static/img/iniyourface/fabs.jpg" alt="Fabs" class="img-circle iyf-heads center-block">
-                <h3>Fabs</h3>
-                <span>
-                        <ul>
-                                <li>IT</li>
-                                <li>Studierenden Parlament</li>
-                                <li>ZaPF Kram (TOPF Deckel)</li>
                                 <li>Ausbildungskommission</li>
                         </ul>
                 </span>
