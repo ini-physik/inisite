@@ -8,7 +8,7 @@ könnt. Außerdem möchten wir euch eine Einführung in **Programme** wir „LaT
 geben, da ihr diese bereits ab dem Studienbeginn brauchen werdet. Zudem ist natürlich das hauptsächliche
 Ziel **gemeinsam Spaß zu haben** und zum Beispiel zusammen zu Picknicken, Spielen oder den Abend
 gemeinsam zu verbringen. ;) -->
-Die Erstifahrt ist dazu gedacht, dass ihr euch gegenseitig **kennenlernt** sowie auch überaus nützliche Sachen fürs Studium kennenlernen könnt. Wir möchten noch vor der Vorlesungszeit einen **Überblick** über die Wahlfächer und Anfängerpraktika verschaffen und außerdem eine Einführung in **Programme** wie LaTeX und QtiPlot geben, da ihr diese bereits ab dem Studienbeginn brauchen werdet. Ein Hauptaspekt bleibt aber das Kennenlernen **in gemütlicher Atmosphäre**. ;)
+Die Erstifahrt ist dazu gedacht, dass ihr euch gegenseitig **kennenlernt** sowie auch überaus nützliche Sachen fürs Studium lernen könnt. Wir möchten noch vor der Vorlesungszeit einen **Überblick** über die Wahlfächer und Anfängerpraktika verschaffen und außerdem eine Einführung in **Programme** wie LaTeX und QtiPlot geben, da ihr diese bereits ab dem Studienbeginn brauchen werdet. Ein Hauptaspekt bleibt aber das Kennenlernen **in gemütlicher Atmosphäre**. ;)
 ## Die wichtigsten Fakten
 * **Wann:** Freitag, 11.10. vormittags - Sonntag, 13.10.2019 nachmittags
 * **Wo:** [KiEZ-Inselparadies in Petzow, Werder (Havel)](http://inselparadies-petzow.de "KiEZ-Inselparadies"), südwestlich von Berlin (Anfahrt ist im Semesterticket enthalten)
