@@ -54,7 +54,7 @@ Zur Vernetzung gibt es:
 
 ## Bezahlung
 Euer Platz ist euch erst nach der Bezahlung sicher. Wir haben aber viele Plätze, sodass wir hoffentlich alle Interessent\*innen mitnehmen können.
-**Ihr bezahlt am Tag der Ersti-Veranstaltung bar bei uns.** Diese findet für die NidIs\* am **Termin steht noch nicht fest**<!--9.10.18 ab 13 Uhr in Raum E 020--> und für die Physiker am **Termin steht noch nicht fest**<!--07.10.18 ab 12 Uhr im Raum EW 201 (Physikgebäude)--> statt. Auch wenn ihr euch noch nicht sicher seid, bringt an dem Tag auf alle Fälle mal 20 € mit! Wenn ihr den Termin verpasst habt, **meldet euch einfach bei uns** und wir klären, wie ihr mitkommen könnt (wir haben bestimmt noch Plätze frei).
+**Ihr bezahlt am Tag der Ersti-Veranstaltung bar bei uns.** Diese findet für die NidIs\* am  8.10.19 ab 13 Uhr in Raum E 020 und für die Physik-Studis am **Termin steht noch nicht fest**<!--07.10.18 ab 12 Uhr im Raum EW 201 (Physikgebäude)--> statt. Auch wenn ihr euch noch nicht sicher seid, bringt an dem Tag auf alle Fälle mal 20 € mit! Wenn ihr den Termin verpasst habt, **meldet euch einfach bei uns** und wir klären, wie ihr mitkommen könnt (wir haben bestimmt noch Plätze frei).
 
 Ihr könnt auch Timo oder Nele stalken, ihnen in der Uni auflauern und ihnen dann das Geld geben. Geht auch.
 
