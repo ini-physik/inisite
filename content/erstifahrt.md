@@ -12,7 +12,7 @@ Die Erstifahrt ist dazu gedacht, dass ihr euch gegenseitig **kennenlernt** sowie
 Die Anmeldung ist noch nicht freigeschaltet. Ihr könnt euch aber auf der [Mailingliste](https://lists.physik.tu-berlin.de/mailman/listinfo/erstifahrt "Erstifahrt-Mailingliste") eintragen, damit ihr benachrichtigt werdet, sobald die Anmeldung verfügbar ist.
 
 ## Kosten
-In dem Preis sind An- und Abreise, Unterkunft und Verpflegung enthalten. **Ihr seid erst dann sicher dabei, wenn ihr die Fahrt bezahlt habt.** Wie das geht, lest ihr weiter unten. ↓
+In dem Preis sind An- und Abreise, Unterkunft und Verpflegung enthalten. **Ihr seid erst dann sicher dabei, wenn ihr die Fahrt bezahlt habt.** Wie das geht, lest ihr weiter unten. 
 Falls benötigt, können zusätzlich Bettwäsche für 5,50 € und Handtücher für 3 € (klein+groß) ausgeliehen werden.
 
 ## Anfahrt
@@ -27,16 +27,16 @@ Nehmt bitte nur so viel Gepäck mit wie ihr selber auf eurem Rad tragen könnt, 
 
 Falls ihr die Anfahrt selbst organisieren wollt, ist anbei eine Karte [und hier müsst ihr hin](http://inselparadies-petzow.de/unser-kiez/anreise.html "Anreise KiEZ Inselparadies"):
 
-<img src="/static/img/erstifahrt-anfahrt.png" alt="Anfahrt" style="width: 50%">
+<img src="/static/img/erstifahrt-anfahrt.png" alt="Anfahrt" style="width: 75%">
 
-Das ist alles im Berliner ABC-Bereich, ihr könnt also mit eurem Studierendenausweis kostenneutral anreisen.
+Das ist alles im Berliner ABC-Bereich, ihr könnt also mit eurem Studierendenausweis kostenfrei anreisen.
 
 Bitte beachtet, dass es am Freitag aus Kosten- und Zeitgründen keine warme Mahlzeit geben wird.
 
 ## Anmeldung
 Die Anmeldung ist noch nicht freigeschaltet. Ihr könnt euch aber auf der [Mailingliste](https://lists.physik.tu-berlin.de/mailman/listinfo/erstifahrt "Erstifahrt-Mailingliste") eintragen, damit ihr benachrichtigt werdet, sobald die Anmeldung verfügbar ist.
 
-Meldet euch am besten möglichst bald an, die Plätze sind begrenzt. Ihr könnt uns auch gerne einfach schon mal unsere Daten schicken, wenn ihr euch noch nicht ganz sicher seid. Gebt das dann bitte mit an.
+Meldet euch am Besten möglichst bald an, die Plätze sind begrenzt. Ihr könnt uns auch gerne einfach schon mal eure Daten schicken, wenn ihr euch noch nicht ganz sicher seid. Gebt das dann bitte mit an.
 
 Zur Vernetzung gibt es:
 
@@ -48,7 +48,7 @@ Zur Vernetzung gibt es:
 Euer Platz ist euch erst nach der Bezahlung sicher. Wir haben aber viele Plätze, sodass wir hoffentlich alle Interessent\*innen mitnehmen können.
 **Ihr bezahlt am Tag der Ersti-Veranstaltung bar bei uns.** Diese findet für die NidIs\* am  8.10.19 ab 13 Uhr in Raum E 020 und für die Physik-Studis am **Termin steht noch nicht fest**<!--07.10.18 ab 12 Uhr im Raum EW 201 (Physikgebäude)--> statt. Auch wenn ihr euch noch nicht sicher seid, bringt an dem Tag auf alle Fälle mal 20 € mit! Wenn ihr den Termin verpasst habt, **meldet euch einfach bei uns** und wir klären, wie ihr mitkommen könnt (wir haben bestimmt noch Plätze frei).
 
-Ihr könnt auch Timo oder Nele stalken, ihnen in der Uni auflauern und ihnen dann das Geld geben. Geht auch.
+Ihr könnt auch Nele, Timo oder Erik stalken, ihnen in der Uni auflauern und ihnen dann das Geld geben. Geht auch.
 
 ## Kontakt
 Um uns zu erreichen, schickt einfach [eine Mail an Nele](mailto:labrenz@math.tu-berlin.de).
@@ -76,12 +76,11 @@ Ihr findet das [vollständige Programm samt Zeiten hier](/static/img/erstifahrt-
 * Master-Erstis, die neu an der TU sind: Auch diesen möchten wir Vernetzung und Anschluss zur TU bieten. Wir haben in den letzten Jahren gute Erfahrungen damit gemacht. Das Programm richtet sich zwar mehr an Bachelor-Studierende, kann aber auch für Master-Erstis interessant sein.
 
 ## Gibt es auch für finanziell schlechter gestellte Erstis die Möglichkeit mitzufahren?
-Teilnehmer, für die der Teilnahmebeitrag für die Fahrt eine erhebliche Belastung ist, können beim Orgateam eine Erstattung beantragen. Wenn du eine Erstattung für die Erstifahrt beantragen möchtest, melde dich während des Anmeldezeitraums möglichst frühzeitig beim Orgateam und schildere ihm deine Einkommenssituation bzw. die Einkommenssituation Deiner Eltern. Das Orgateam wird dann unter Berücksichtigung der Finanzlage der Erstifahrt über deinen Antrag entscheiden. Am Geld soll's nicht scheitern!
+Teilnehmemende, für die der Teilnahmebeitrag für die Fahrt eine erhebliche Belastung ist, können beim Orgateam eine Erstattung beantragen. Wenn du eine Erstattung für die Erstifahrt beantragen möchtest, melde dich während des Anmeldezeitraums möglichst frühzeitig beim Orgateam und schildere ihm deine Einkommenssituation bzw. die Einkommenssituation Deiner Eltern. Das Orgateam wird dann unter Berücksichtigung der Finanzlage der Erstifahrt über deinen Antrag entscheiden. Am Geld soll's nicht scheitern!
 
 ## Computer-Workshops
-Zu den Workshops solltet ihr bereits jetzt Programme herunterladen.
+In einigen Workshops wollen wir euch Software vorstellen. Dazu braucht ihr einen eigenen Laptop, auf dem ihr **vorher** die Programme installiert habt.
 **Die Sachen müssen definitiv vorab heruntergeladen werden! Wir haben kein WLAN und das mobile Netz ist schlecht und unzuverlässig in Petzow** und gerade LaTeX braucht einfach große Datenmengen.
-In einigen Workshops wollen wir euch Computerprogramme zeigen. Dazu braucht ihr einen eigenen 
 
 ### LaTeX
 * [Zuerst könnt ihr z.B. MikTex herunterladen, sofern ihr Windows habt.](http://miktex.org/download "MikTex") \*\*
@@ -92,7 +91,7 @@ In einigen Workshops wollen wir euch Computerprogramme zeigen. Dazu braucht ihr 
 \*\* Im Übrigen dürft ihr gerne auch eine andere LaTeX-Version nutzen, einen eigenen Editor etc., wenn ihr das wollt. Unser Vorschlag ist nicht unbedingt besser, aber die Vielzahl an Möglichkeiten macht die Wahl gerade am Anfang nicht einfacher und ist vorerst eh nicht so wichtig. Aber wenn euch was stört, seid gern so frei, euch nach etwas anderem umzusehen.
 
 ### QtiPlot
-[Hier könnt ihr QtiPlot installieren.](https://www.physik.tu-berlin.de/qtiplot "QtiPlot") Allerdings müsst ihr dafür mit dem WLAN der Uni verbunden sein. Also meldet euch mit eurem tubIT-Account im Eduroam-WLAN der Uni an oder [legt euch einen VPN-Zugang an.](https://www.tubit.tu-berlin.de/menue/dienste/kommunikation_internet/vpn "Eine Anleitung") Euer Benutzername im WLAN der Uni ist tubIT-Benutzername@win.tu-berlin.de.
+[Hier könnt ihr QtiPlot installieren.](https://www.physik.tu-berlin.de/qtiplot "QtiPlot") Allerdings müsst ihr dafür mit dem WLAN der Uni verbunden sein. Also meldet euch mit eurem TUB-Account im Eduroam-WLAN der Uni an oder [legt euch einen VPN-Zugang an.](https://www.tubit.tu-berlin.de/menue/dienste/kommunikation_internet/vpn "Eine Anleitung") Euer Benutzername im WLAN der Uni ist TUB-Benutzername@win.tu-berlin.de.
 ### Inkscape
 [Inkscape ladet ihr hier herunter.](https://inkscape.org/en/download "Inkscape") Leider gibt es dazu wahrscheinlich keinen Vortrag in diesem Jahr. Aber was man hat, hat man. :)
 
