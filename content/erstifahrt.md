@@ -2,20 +2,13 @@
 Title:	"Erstifahrt"
 title_color:	"#DF01D7"
 ---
-<!--Diese Fahrt ist dazu gedacht, dass ihr euch gegenseitig **kennenlernt** und auch überaus Nützliches fürs Studium lernt. Wir möchten euch am Wochenende vor Beginn der Vorlesungszeit über das [Projektlabor](http://www.pl-physik.tu-berlin.de/menue/home/) und das [Grundpraktikum](http://www.ioap.tu-berlin.de/grundpraktikum/) sowie Wahlmodule **informieren**. Damit wollen wir euch in eurer Entscheidungsfindung gerade in
-den ersten Wochen unterstützen, indem ihr euch mit uns austauschen und uns nach Erfahrungen fragen
-könnt. Außerdem möchten wir euch eine Einführung in **Programme** wir „LaTeX“, „QtiPlot“ und „Inkscape“
-geben, da ihr diese bereits ab dem Studienbeginn brauchen werdet. Zudem ist natürlich das hauptsächliche
-Ziel **gemeinsam Spaß zu haben** und zum Beispiel zusammen zu Picknicken, Spielen oder den Abend
-gemeinsam zu verbringen. ;) -->
+
 Die Erstifahrt ist dazu gedacht, dass ihr euch gegenseitig **kennenlernt** sowie auch überaus nützliche Sachen fürs Studium lernen könnt. Wir möchten noch vor der Vorlesungszeit einen **Überblick** über die Wahlfächer und Anfängerpraktika verschaffen und außerdem eine Einführung in **Programme** wie LaTeX und QtiPlot geben, da ihr diese bereits ab dem Studienbeginn brauchen werdet. Ein Hauptaspekt bleibt aber das Kennenlernen **in gemütlicher Atmosphäre**. ;)
 ## Die wichtigsten Fakten
 * **Wann:** Freitag, 11.10. vormittags - Sonntag, 13.10.2019 nachmittags
 * **Wo:** [KiEZ-Inselparadies in Petzow, Werder (Havel)](http://inselparadies-petzow.de "KiEZ-Inselparadies"), südwestlich von Berlin (Anfahrt ist im Semesterticket enthalten)
 * **Preis:** 20 Euro
-<!--* [Programm](/static/img/erstifahrt-programm.pdf "Programm")-->
 
-<!--[<button style="font-size: 1.3em;">Anmelden könnt ihr euch hier.</button>](https://erstifahrt.coliza.de/ "Anmeldung")-->
 Die Anmeldung ist noch nicht freigeschaltet. Ihr könnt euch aber auf der [Mailingliste](https://lists.physik.tu-berlin.de/mailman/listinfo/erstifahrt "Erstifahrt-Mailingliste") eintragen, damit ihr benachrichtigt werdet, sobald die Anmeldung verfügbar ist.
 
 ## Kosten
@@ -41,7 +34,6 @@ Das ist alles im Berliner ABC-Bereich, ihr könnt also mit eurem Studierendenaus
 Bitte beachtet, dass es am Freitag aus Kosten- und Zeitgründen keine warme Mahlzeit geben wird.
 
 ## Anmeldung
-<!--[<button>Anmelden könnt ihr euch hier.</button>](https://erstifahrt.coliza.de/ "Anmeldung")-->
 Die Anmeldung ist noch nicht freigeschaltet. Ihr könnt euch aber auf der [Mailingliste](https://lists.physik.tu-berlin.de/mailman/listinfo/erstifahrt "Erstifahrt-Mailingliste") eintragen, damit ihr benachrichtigt werdet, sobald die Anmeldung verfügbar ist.
 
 Meldet euch am besten möglichst bald an, die Plätze sind begrenzt. Ihr könnt uns auch gerne einfach schon mal unsere Daten schicken, wenn ihr euch noch nicht ganz sicher seid. Gebt das dann bitte mit an.
@@ -49,8 +41,8 @@ Meldet euch am besten möglichst bald an, die Plätze sind begrenzt. Ihr könnt 
 Zur Vernetzung gibt es:
 
 1. [Eine Mailingliste](https://lists.physik.tu-berlin.de/mailman/listinfo/erstifahrt "Erstifahrt-Mailingliste"), für die ihr euch bitte **alle** anmeldet!
-2. [Eine WhatsApp-Gruppe](https://chat.whatsapp.com/KSxeV9jac27EGrLJJdgUOf).
-<!--3. [Ein Facebook-Event](https://www.facebook.com/events/2224621617751379).-->
+2. [Eine Telegram-Gruppe](tg://join?invite=D2-z3Re3zTCpte0-aOTXvg)
+3. [Eine WhatsApp-Gruppe](https://chat.whatsapp.com/KSxeV9jac27EGrLJJdgUOf)
 
 ## Bezahlung
 Euer Platz ist euch erst nach der Bezahlung sicher. Wir haben aber viele Plätze, sodass wir hoffentlich alle Interessent\*innen mitnehmen können.
@@ -59,11 +51,8 @@ Euer Platz ist euch erst nach der Bezahlung sicher. Wir haben aber viele Plätze
 Ihr könnt auch Timo oder Nele stalken, ihnen in der Uni auflauern und ihnen dann das Geld geben. Geht auch.
 
 ## Kontakt
-Um uns zu erreichen, schickt einfach [eine Mail an Nele](mailto:labrenz@math.tu-berlin.de). <!--(Diese erreicht dann erstmal nur den Moderator/das Orga-Team.) -->
+Um uns zu erreichen, schickt einfach [eine Mail an Nele](mailto:labrenz@math.tu-berlin.de).
 Wenn ihr irgendwelche Fragen habt, stellt sie gerne!
-<!-- ## Allgemeines
-Wir werden im Voraus die Häuser aufteilen. Wir haben 7 6er-Häuser und eines davon ist für Organisator/innen reserviert. In jedem Haus wird es eine/n verantwortliche/n Teilnehmer/in geben, der/die den Schlüssel bekommt und sich an uns wendet, wenn es Schwierigkeiten gibt. Jede/r Verantwortliche hat eine/n eigene/n Ansprechpartner/in unter den Organisator/innen.
-Wer eine BahnCard hat, soll diese bitte unbedingt mitbringen, das macht die Anfahrt günstiger. -->
 ## Workshops
 Ihr findet das [vollständige Programm samt Zeiten hier](/static/img/erstifahrt-programm.pdf "Programm").
 
@@ -87,12 +76,13 @@ Ihr findet das [vollständige Programm samt Zeiten hier](/static/img/erstifahrt-
 * Master-Erstis, die neu an der TU sind: Auch diesen möchten wir Vernetzung und Anschluss zur TU bieten. Wir haben in den letzten Jahren gute Erfahrungen damit gemacht. Das Programm richtet sich zwar mehr an Bachelor-Studierende, kann aber auch für Master-Erstis interessant sein.
 
 ## Gibt es auch für finanziell schlechter gestellte Erstis die Möglichkeit mitzufahren?
-Teilnehmer, für die der Teilnahmebeitrag für die Fahrt eine erhebliche Belastung ist, können beim Orgateam eine Erstattung beantragen. <!-- Diese wird solidarisch von allen getragen. --> Wenn du eine Erstattung für die Erstifahrt beantragen möchtest, melde dich während des Anmeldezeitraums möglichst frühzeitig beim Orgateam und schildere ihm deine Einkommenssituation bzw. die Einkommenssituation Deiner Eltern. Das Orgateam wird dann unter Berücksichtigung der Finanzlage der Erstifahrt über deinen Antrag entscheiden. Am Geld soll's nicht scheitern!
+Teilnehmer, für die der Teilnahmebeitrag für die Fahrt eine erhebliche Belastung ist, können beim Orgateam eine Erstattung beantragen. Wenn du eine Erstattung für die Erstifahrt beantragen möchtest, melde dich während des Anmeldezeitraums möglichst frühzeitig beim Orgateam und schildere ihm deine Einkommenssituation bzw. die Einkommenssituation Deiner Eltern. Das Orgateam wird dann unter Berücksichtigung der Finanzlage der Erstifahrt über deinen Antrag entscheiden. Am Geld soll's nicht scheitern!
 
 ## Computer-Workshops
 Zu den Workshops solltet ihr bereits jetzt Programme herunterladen.
 **Die Sachen müssen definitiv vorab heruntergeladen werden! Wir haben kein WLAN und das mobile Netz ist schlecht und unzuverlässig in Petzow** und gerade LaTeX braucht einfach große Datenmengen.
-In einigen Workshops wollen wir euch Computerprogramme zeigen. Dazu braucht ihr einen eigenen Laptop, auf dem ihr vorher die Programme installiert habt. <!-- Kümmert euch da bitte bald drum. Wenn ihr dabei auf Schwierigkeiten stoßt, könnt ihr nächsten Donnerstag ab 16 Uhr bis 17:30 Uhr (bzw. bis alle Probleme geklärt sind) in den PC-Pool kommen und wir versuchen zu helfen, soweit wir das können. -->
+In einigen Workshops wollen wir euch Computerprogramme zeigen. Dazu braucht ihr einen eigenen 
+
 ### LaTeX
 * [Zuerst könnt ihr z.B. MikTex herunterladen, sofern ihr Windows habt.](http://miktex.org/download "MikTex") \*\*
 * [Für Mac gibt es z.B. MacTex.](https://tug.org/mactex/mactex-download.html "MacTex")
@@ -110,4 +100,3 @@ In einigen Workshops wollen wir euch Computerprogramme zeigen. Dazu braucht ihr 
 
 Wenn ihr irgendwelche Fragen habt, stellt sie gerne!
 **Wir freuen uns auf euch! ;)**
-<!-- Wenn ihr die Kosten nicht selbst tragen könnt, finden wir auf vertraulichem Wege sicher eine Lösung. -->
