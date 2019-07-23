@@ -24,7 +24,7 @@ Falls benötigt, können zusätzlich Bettwäsche für 5,50 € und Handtücher f
 
 ## Anfahrt
 Wir treffen uns am Freitag (11.10.) um 11 Uhr am Bahnhof Berlin **Zoologischer Garten**. Von dort geht es mit dem RE 1 nach Werder (Havel). Der Zug fährt um 11:19 ab, daher seid bitte pünktlich.
-Alternativ könnt ihr auch einfach [an einem der Zwischenhalte der Bahn](https://reiseauskunft.bahn.de/bin/traininfo.exe/dn/52200/345864/683222/324215/80?ld=3827&protocol=https:&seqnr=5&ident=jz.01628727.1563810477&date=11.10.19&station_evaId=8010406&station_type=dep&currentReferrer=tp&rt=1&rtMode=DB-HYBRID&&time=11:19&currentJourneyClass=2& "DB-Fahrplan des Zuges") dazusteigen.
+Alternativ könnt ihr auch einfach an einem der Zwischenhalte der Bahn dazusteigen.
 Die Zwischenhalte sind 11:30 in Wannsee und 11:38 in Potsdam.
 Ausstieg ist in Werder (Havel). Dort nehmen wir den Bus 631 bis Holländermühle. Von dort an geht es das letzte Stück zu Fuß zum Inselparadies Petzow (s.u.). 
 
