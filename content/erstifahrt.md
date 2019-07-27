@@ -16,8 +16,8 @@ In dem Preis sind An- und Abreise, Unterkunft und Verpflegung enthalten. **Ihr s
 Falls benötigt, können zusätzlich Bettwäsche für 5,50 € und Handtücher für 3 € (klein+groß) ausgeliehen werden.
 
 ## Anfahrt
-Wir treffen uns am Freitag (11.10.) um 11 Uhr am Bahnhof Berlin **Zoologischer Garten**. Von dort geht es mit dem RE 1 nach Werder (Havel). Der Zug fährt um 11:19 ab, daher seid bitte pünktlich.
-Alternativ könnt ihr auch einfach an einem der Zwischenhalte der Bahn dazusteigen.
+Wir treffen uns am Freitag (11.10.) um 11 Uhr am Bahnhof Berlin **Zoologischer Garten**. Von dort geht es mit dem RE 1 Richtung Brandenburg Hbf bis Werder (Havel). Der Zug fährt um 11:19 ab, daher seid bitte pünktlich.
+Alternativ könnt ihr auch einfach an einem der [Zwischenhalte der Bahn](https://reiseauskunft.bahn.de/bin/traininfo.exe/dn/734460/423302/81534/204057/80?ld=391&protocol=https:&seqnr=6&ident=j2.0263591.1564235147&date=11.10.19&station_evaId=8010406&station_type=dep&currentReferrer=tp&rt=1&rtMode=DB-HYBRID&&time=11:19&currentJourneyClass=2&) dazusteigen.
 Die Zwischenhalte sind 11:30 in Wannsee und 11:38 in Potsdam.
 Ausstieg ist in Werder (Havel). Dort nehmen wir den Bus 631 bis Holländermühle. Von dort an geht es das letzte Stück zu Fuß zum Inselparadies Petzow (s.u.). 
 
@@ -61,13 +61,13 @@ Ihr könnt auch Nele, Timo oder Erik stalken, ihnen in der Uni auflauern und ihn
 Um uns zu erreichen, schickt einfach [eine Mail an Nele](mailto:labrenz@math.tu-berlin.de).
 Wenn ihr irgendwelche Fragen habt, stellt sie gerne!
 ## Workshops
-Ihr findet das [vollständige Programm samt Zeiten hier](/static/img/erstifahrt-programm.pdf "Programm").
+Ihr findet das [vollständige Programm samt Zeiten hier](/static/img/erstifahrt-programm.pdf "Programm"). Beachtet, dass sich das Programm noch kurzfristig ändern kann.
 
 * Praktika: [Grundpraktikum](http://www.ioap.tu-berlin.de/grundpraktikum/) und [Projektlabor](http://www.pl-physik.tu-berlin.de/menue/home/)
 * Wahlfächer
 * LaTeX
 * QtiPlot
-* kein Inkscape
+* voraussichtlich kein Inkscape
 * Was ist eigentlich Uni?
 * Ini & Hochschulpolitik
 * Frauen in der Forschung
@@ -83,7 +83,7 @@ Ihr findet das [vollständige Programm samt Zeiten hier](/static/img/erstifahrt-
 * Master-Erstis, die neu an der TU sind: Auch diesen möchten wir Vernetzung und Anschluss zur TU bieten. Wir haben in den letzten Jahren gute Erfahrungen damit gemacht. Das Programm richtet sich zwar mehr an Bachelor-Studierende, kann aber auch für Master-Erstis interessant sein.
 
 ## Gibt es auch für finanziell schlechter gestellte Erstis die Möglichkeit mitzufahren?
-Teilnehmemende, für die der Teilnahmebeitrag für die Fahrt eine erhebliche Belastung ist, können beim Orgateam eine Erstattung beantragen. Wenn du eine Erstattung für die Erstifahrt beantragen möchtest, melde dich während des Anmeldezeitraums möglichst frühzeitig beim Orgateam und schildere ihm deine Einkommenssituation bzw. die Einkommenssituation Deiner Eltern. Das Orgateam wird dann unter Berücksichtigung der Finanzlage der Erstifahrt über deinen Antrag entscheiden. Am Geld soll's nicht scheitern!
+Teilnehmende, für die der Teilnahmebeitrag für die Fahrt eine erhebliche Belastung ist, können beim Orgateam eine Erstattung beantragen. Wenn du eine Erstattung für die Erstifahrt beantragen möchtest, melde dich während des Anmeldezeitraums möglichst frühzeitig beim Orgateam und schildere ihm deine Einkommenssituation bzw. die Einkommenssituation Deiner Eltern. Das Orgateam wird dann unter Berücksichtigung der Finanzlage der Erstifahrt über deinen Antrag entscheiden. Am Geld soll's nicht scheitern!
 
 ## Computer-Workshops
 In einigen Workshops wollen wir euch Software vorstellen. Dazu braucht ihr einen eigenen Laptop, auf dem ihr **vorher** die Programme installiert habt.
