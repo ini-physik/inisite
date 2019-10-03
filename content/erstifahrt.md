@@ -34,7 +34,7 @@ Das ist alles im Berliner ABC-Bereich, ihr könnt also mit eurem Studierendenaus
 Bitte beachtet, dass es am Freitag aus Kosten- und Zeitgründen keine warme Mahlzeit geben wird.
 
 ## Anmeldung
-Ihr könnt euch ab sofort [hier](http://erstifahrt.physik.tu-berlin.de/ "Erstifahrt-Anmeldung") anmelden.
+[<button style="font-size: 1.3em;">Anmelden könnt ihr euch hier.</button>](http://erstifahrt.physik.tu-berlin.de/ "Erstifahrt-Anmeldung")
 
 Meldet euch am Besten möglichst bald an, die Plätze sind begrenzt. Ihr könnt uns auch gerne einfach schon mal eure Daten schicken, wenn ihr euch noch nicht ganz sicher seid. Gebt das dann bitte mit an.
 
