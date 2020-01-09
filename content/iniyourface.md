@@ -17,7 +17,7 @@ title_color: "#dd5d5d"
 </style>
 <div class="row">
         <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
-                <img src="/static/img/iniyourface/paul.jpg" alt="Paul Hilpert" class="img-circle iyf-heads center-block">
+                <img src="/static/img/iniyourface/alpaca4.jpg" alt="Paul Hilpert" class="img-circle iyf-heads center-block">
                 <h3>Paul Hilpert</h3>
                 <span>
                         <ul>
@@ -31,14 +31,12 @@ title_color: "#dd5d5d"
                 <h3>Timo Prinz</h3>
                 <span>
                         <ul>
-                                <li>Fakultätsrat der Fakultät II</li>
+                                <li>Fakultätsrat</li>
                                 <li>Physikkommission</li>
                                 <li><a href=https://zapfev.de/zapf>ZaPF</a>-<a href=https://zapf.wiki/ToPF>ToPF</a>-Deckel</li>
                                 <li>Organisation der Ersti-Fahrt</li>
                                 <li>Akademischer Senat (Stellv.)</li>
-                                <li>Institutsrat des Institutes für Optik und Atomare Physik (Stellv.)</li>
-                                <li>Haushaltsausschuss Fakultät II (Stellv.)</li>
-                                <li>Ausbildungskommission Physik/NidI (Stellv.)</li>
+                                <li>Diverse weitere Gremien (Stellv.)</li>
                         </ul>
                 </span>
         </div>
@@ -55,8 +53,6 @@ title_color: "#dd5d5d"
                         </ul>
                 </span>
         </div>
-</div>
-<div class="row">
         <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
                 <img src="/static/img/iniyourface/erik.jpg" alt="Erik vor den Tharen" class="img-circle iyf-heads center-block">
                 <h3>Erik vor den Tharen</h3>
@@ -65,14 +61,14 @@ title_color: "#dd5d5d"
                                 <li>Queer-Referat im AStA</li>
                                 <li>Institutsrat des Institutes für Festkörperphysik</li>
                                 <li>Physikkommission</li>
-                                <li>Fakultätsrat der Fakultät II (Stellv.)</li>
-                                <li>Akademischer Senat (Stellv.)</li>
                                 <li>Ausbildungskommission Physik/NidI (Stellv.)</li>
-                                <li>Prüfungsausschuss Physik (Stellv.)</li>
-                                <li>Komission zur Evaluierung von Juniorprofessuren der Fakultät (Stellv.)</li>
+                                <li>Akademischer Senat (Stellv.)</li>
+                                <li>Diverse weitere Gremien (Stellv.)</li>
                         </ul>
                 </span>
         </div>
+</div>
+<div class="row">
         <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
                 <img src="/static/img/iniyourface/alpaca2.jpg" alt="Robin Krüger" class="img-circle iyf-heads center-block">
                 <h3>Robin Krüger</h3>
@@ -95,8 +91,6 @@ title_color: "#dd5d5d"
                         </ul>
                 </span>
         </div>
-</div>
-<div class="row">
         <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
                 <img src="/static/img/iniyourface/fabs.jpg" alt="Fabs" class="img-circle iyf-heads center-block">
                 <h3>Fabs</h3>
@@ -108,6 +102,17 @@ title_color: "#dd5d5d"
                         </ul>
                 </span>
         </div>
+        <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
+                <img src="/static/img/iniyourface/alpaca5.jpg" alt="Björn Kramm" class="img-circle iyf-heads center-block">
+                <h3>Björn Kramm</h3>
+                <span>
+                        <ul>
+                                <li>Protokollausleihe</li>
+                        </ul>
+                </span>
+        </div>
+</div>
+<div class="row">
         <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
                 <img src="/static/img/iniyourface/elli.jpg" alt="Elli Schlottmann" class="img-circle iyf-heads center-block">
                 <h3>Elli Schlottmann</h3>
@@ -129,8 +134,6 @@ title_color: "#dd5d5d"
                         </ul>
                 </span>
         </div>
-</div>
-<div class="row">
         <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
                 <img src="/static/img/iniyourface/robert2.jpg" alt="Robert Salzwedel" class="img-circle iyf-heads center-block">
                 <h3>Robert Salzwedel</h3>
@@ -149,6 +152,8 @@ title_color: "#dd5d5d"
                         </ul>
                 </span>
         </div>
+</div>
+<div class="row">
         <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
                 <img src="/static/img/iniyourface/jonathan.jpg" alt="Jonathan Hofmann" class="img-circle iyf-heads center-block">
                 <h3>Jonathan Hofmann</h3>
@@ -158,8 +163,6 @@ title_color: "#dd5d5d"
                         </ul>
                 </span>
         </div>
-</div>
-<div class="row">
         <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
                 <img src="/static/img/iniyourface/robin.jpg" alt="Robin Kraft" class="img-circle iyf-heads center-block">
                 <h3>Robin Kraft</h3>
@@ -216,9 +219,7 @@ title_color: "#dd5d5d"
                                 <li>Institutsrat des Institutes für Festkörperphysik</li>
                         </ul>
                 </span>
-        </div>
-</div>
-<div class="row">  
+        </div> 
         <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
                 <img src="/static/img/iniyourface/rafael.jpg" alt="Rafael Leonard" class="img-circle iyf-heads center-block">
                 <h3>Holger Eisele</h3>
