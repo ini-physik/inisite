@@ -5,11 +5,13 @@ title_color:	"#DF01D7"
 
 Die Erstifahrt ist dazu gedacht, dass ihr euch gegenseitig **kennenlernt** sowie auch überaus nützliche Sachen fürs Studium lernen könnt. Wir möchten noch vor der Vorlesungszeit einen **Überblick** über die Wahlfächer und Anfängerpraktika verschaffen und außerdem eine Einführung in **Programme** wie LaTeX und QtiPlot geben, da ihr diese bereits ab dem Studienbeginn brauchen werdet. Ein Hauptaspekt bleibt aber das Kennenlernen **in gemütlicher Atmosphäre**. ;)
 ## Die wichtigsten Fakten
-* **Wann:** Freitag, 11.10. vormittags - Sonntag, 13.10.2019 nachmittags
-* **Wo:** [KiEZ-Inselparadies in Petzow, Werder (Havel)](http://inselparadies-petzow.de "KiEZ-Inselparadies"), südwestlich von Berlin (Anfahrt ist im Semesterticket enthalten)
-* **Preis:** 20 Euro
+* **Wann:** vermutlich Freitag, 16.10. vormittags - Sonntag, 18.10.2020 nachmittags
+* **Wo:** vermutlich [KiEZ-Inselparadies in Petzow, Werder (Havel)](http://inselparadies-petzow.de "KiEZ-Inselparadies"), südwestlich von Berlin (Anfahrt ist im Semesterticket enthalten)
+* **Preis:** vermutlich 20 Euro
 
-Die Anmeldung ist noch nicht freigeschaltet. Ihr könnt euch aber auf der [Mailingliste](https://lists.physik.tu-berlin.de/mailman/listinfo/erstifahrt "Erstifahrt-Mailingliste") eintragen, damit ihr benachrichtigt werdet, sobald die Anmeldung verfügbar ist.
+Die Planung der Erstifahrt für das Wintersemester 20/21 hat noch nicht angefangen. Die Informationen auf dieser Seite sind größtenteils von der letzten Erstifahrt und können sich noch ändern.
+
+Weitere Informationen, auch zur Anmeldung, kommen dann später.
 
 ## Kosten
 In dem Preis sind An- und Abreise, Unterkunft und Verpflegung enthalten. **Ihr seid erst dann sicher dabei, wenn ihr die Fahrt bezahlt habt.** Wie das geht, lest ihr weiter unten. 
@@ -17,7 +19,7 @@ Falls benötigt, können zusätzlich Bettwäsche für 5,50 € und Handtücher f
 
 ## Anfahrt
 Wir treffen uns am Freitag (11.10.) um 11 Uhr am Bahnhof Berlin **Zoologischer Garten**. Von dort geht es mit dem RE 1 Richtung Brandenburg Hbf bis Werder (Havel). Der Zug fährt um 11:19 ab, daher seid bitte pünktlich.
-Alternativ könnt ihr auch einfach an einem der [Zwischenhalte der Bahn](https://reiseauskunft.bahn.de/bin/traininfo.exe/dn/734460/423302/81534/204057/80?ld=391&protocol=https:&seqnr=6&ident=j2.0263591.1564235147&date=11.10.19&station_evaId=8010406&station_type=dep&currentReferrer=tp&rt=1&rtMode=DB-HYBRID&&time=11:19&currentJourneyClass=2&) dazusteigen.
+Alternativ könnt ihr auch einfach an einem der Zwischenhalte der Bahn dazusteigen.
 Die Zwischenhalte sind 11:30 in Wannsee und 11:38 in Potsdam.
 Ausstieg ist in Werder (Havel). Dort nehmen wir den Bus 631 bis Holländermühle. Von dort an geht es das letzte Stück zu Fuß zum Inselparadies Petzow (s.u.). 
 
@@ -34,32 +36,23 @@ Das ist alles im Berliner ABC-Bereich, ihr könnt also mit eurem Studierendenaus
 Bitte beachtet, dass es am Freitag aus Kosten- und Zeitgründen keine warme Mahlzeit geben wird.
 
 ## Anmeldung
-Die Anmeldung ist noch nicht freigeschaltet. Ihr könnt euch aber auf der [Mailingliste](https://lists.physik.tu-berlin.de/mailman/listinfo/erstifahrt "Erstifahrt-Mailingliste") eintragen, damit ihr benachrichtigt werdet, sobald die Anmeldung verfügbar ist.
+
+Die Planung der Erstifahrt für das Wintersemester 20/21 hat noch nicht angefangen. Die Informationen auf dieser Seite sind größtenteils von der letzten Erstifahrt und können sich noch ändern.
+
+Weitere Informationen, auch zur Anmeldung, kommen dann später.
 
 Meldet euch am Besten möglichst bald an, die Plätze sind begrenzt. Ihr könnt uns auch gerne einfach schon mal eure Daten schicken, wenn ihr euch noch nicht ganz sicher seid. Gebt das dann bitte mit an.
-
-Zur Vernetzung gibt es:
-
-1. [Eine Mailingliste](https://lists.physik.tu-berlin.de/mailman/listinfo/erstifahrt "Erstifahrt-Mailingliste"), für die ihr euch bitte **alle** anmeldet!
-2. [Eine Telegram-Gruppe](tg://join?invite=D2-z3Re3zTCpte0-aOTXvg)
-3. [Eine WhatsApp-Gruppe](https://chat.whatsapp.com/KSxeV9jac27EGrLJJdgUOf)
 
 ## Bezahlung
 Euer Platz ist euch erst nach der Bezahlung sicher. Wir haben aber viele Plätze, sodass wir hoffentlich alle Interessent\*innen mitnehmen können.
 
-### NidI-Studierende
-**Ihr bezahlt am Tag der Ersti-Veranstaltung bar bei uns.** Diese findet für die NidIs\* am  8.10.19 ab 13 Uhr in Raum E 020 statt. Auch wenn ihr euch noch nicht sicher seid, bringt an dem Tag auf alle Fälle mal 20 € mit! Wenn ihr den Termin verpasst habt, **meldet euch einfach bei uns** und wir klären, wie ihr mitkommen könnt (wir haben bestimmt noch Plätze frei).
-
-Ihr könnt auch Nele, Timo oder Erik stalken, ihnen in der Uni auflauern und ihnen dann das Geld geben. Geht auch.
-
-### Physikstudierende
-**Informationen zur Bezahlung bekommt ihr über die Mailingliste, sobald der Termin für eure Einführungsveranstaltung feststeht.** 
-
-Ihr könnt auch Nele, Timo oder Erik stalken, ihnen in der Uni auflauern und ihnen dann das Geld geben. Geht auch.
+Bei der Anmeldung wird euch ein Token angezeigt, den ihr euch aufschreiben müsst.
+Diesen gebt ihr dann bei der Bezahlung an, damit wir eure Zahlung zuordnen können.
 
 ## Kontakt
 Um uns zu erreichen, schickt einfach [eine Mail an Nele](mailto:labrenz@math.tu-berlin.de).
 Wenn ihr irgendwelche Fragen habt, stellt sie gerne!
+
 ## Workshops
 Ihr findet das [vollständige Programm samt Zeiten hier](/static/img/erstifahrt-programm.pdf "Programm"). Beachtet, dass sich das Programm noch kurzfristig ändern kann.
 
@@ -67,7 +60,7 @@ Ihr findet das [vollständige Programm samt Zeiten hier](/static/img/erstifahrt-
 * Wahlfächer
 * LaTeX
 * QtiPlot
-* voraussichtlich kein Inkscape
+* Kollaborative Versionierung mit git
 * Was ist eigentlich Uni?
 * Ini & Hochschulpolitik
 * Frauen in der Forschung
@@ -99,8 +92,9 @@ In einigen Workshops wollen wir euch Software vorstellen. Dazu braucht ihr einen
 
 ### QtiPlot
 [Hier könnt ihr QtiPlot installieren.](https://www.physik.tu-berlin.de/qtiplot "QtiPlot") Allerdings müsst ihr dafür mit dem WLAN der Uni verbunden sein. Also meldet euch mit eurem TUB-Account im Eduroam-WLAN der Uni an oder [legt euch einen VPN-Zugang an.](https://www.tubit.tu-berlin.de/menue/dienste/kommunikation_internet/vpn "Eine Anleitung") Euer Benutzername im WLAN der Uni ist TUB-Benutzername@win.tu-berlin.de.
-### Inkscape
-[Inkscape ladet ihr hier herunter.](https://inkscape.org/en/download "Inkscape") Leider gibt es dazu wahrscheinlich keinen Vortrag in diesem Jahr. Aber was man hat, hat man. :)
+
+### git
+[Gibt es hier](https://git-scm.com/downloads "git Download-Seite")
 
 \* NidIs: Siehe [Zielgruppe](#Zielgruppe "Zielgruppe")
 
