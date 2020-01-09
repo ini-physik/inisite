@@ -5,11 +5,13 @@ title_color:	"#DF01D7"
 
 Die Erstifahrt ist dazu gedacht, dass ihr euch gegenseitig **kennenlernt** sowie auch überaus nützliche Sachen fürs Studium lernen könnt. Wir möchten noch vor der Vorlesungszeit einen **Überblick** über die Wahlfächer und Anfängerpraktika verschaffen und außerdem eine Einführung in **Programme** wie LaTeX und QtiPlot geben, da ihr diese bereits ab dem Studienbeginn brauchen werdet. Ein Hauptaspekt bleibt aber das Kennenlernen **in gemütlicher Atmosphäre**. ;)
 ## Die wichtigsten Fakten
-* **Wann:** Freitag, 11.10. vormittags - Sonntag, 13.10.2019 nachmittags
-* **Wo:** [KiEZ-Inselparadies in Petzow, Werder (Havel)](http://inselparadies-petzow.de "KiEZ-Inselparadies"), südwestlich von Berlin (Anfahrt ist im Semesterticket enthalten)
-* **Preis:** 20 Euro
+* **Wann:** vermutlich Freitag, 16.10. vormittags - Sonntag, 18.10.2020 nachmittags
+* **Wo:** vermutlich [KiEZ-Inselparadies in Petzow, Werder (Havel)](http://inselparadies-petzow.de "KiEZ-Inselparadies"), südwestlich von Berlin (Anfahrt ist im Semesterticket enthalten)
+* **Preis:** vermutlich 20 Euro
 
-Ihr könnt euch ab sofort [hier](http://erstifahrt.physik.tu-berlin.de/ "Erstifahrt-Anmeldung") anmelden.
+Die Planung der Erstifahrt für das Wintersemester 20/21 hat noch nicht angefangen. Die Informationen auf dieser Seite sind größtenteils von der letzten Erstifahrt und können sich noch ändern.
+
+Weitere Informationen, auch zur Anmeldung, kommen dann später.
 
 ## Kosten
 In dem Preis sind An- und Abreise, Unterkunft und Verpflegung enthalten. **Ihr seid erst dann sicher dabei, wenn ihr die Fahrt bezahlt habt.** Wie das geht, lest ihr weiter unten. 
@@ -34,25 +36,18 @@ Das ist alles im Berliner ABC-Bereich, ihr könnt also mit eurem Studierendenaus
 Bitte beachtet, dass es am Freitag aus Kosten- und Zeitgründen keine warme Mahlzeit geben wird.
 
 ## Anmeldung
-[<button style="font-size: 1.3em;">Anmelden könnt ihr euch hier.</button>](http://erstifahrt.physik.tu-berlin.de/ "Erstifahrt-Anmeldung")
+
+Die Planung der Erstifahrt für das Wintersemester 20/21 hat noch nicht angefangen. Die Informationen auf dieser Seite sind größtenteils von der letzten Erstifahrt und können sich noch ändern.
+
+Weitere Informationen, auch zur Anmeldung, kommen dann später.
 
 Meldet euch am Besten möglichst bald an, die Plätze sind begrenzt. Ihr könnt uns auch gerne einfach schon mal eure Daten schicken, wenn ihr euch noch nicht ganz sicher seid. Gebt das dann bitte mit an.
-
-Zur Vernetzung gibt es:
-
-1. [Eine Mailingliste](https://lists.physik.tu-berlin.de/mailman/listinfo/erstifahrt "Erstifahrt-Mailingliste"), für die ihr euch bitte **alle** anmeldet!
-2. [Eine Telegram-Gruppe](tg://join?invite=D2-z3Re3zTCpte0-aOTXvg)
-3. [Eine WhatsApp-Gruppe](https://chat.whatsapp.com/KSxeV9jac27EGrLJJdgUOf)
 
 ## Bezahlung
 Euer Platz ist euch erst nach der Bezahlung sicher. Wir haben aber viele Plätze, sodass wir hoffentlich alle Interessent\*innen mitnehmen können.
 
 Bei der Anmeldung wird euch ein Token angezeigt, den ihr euch aufschreiben müsst.
 Diesen gebt ihr dann bei der Bezahlung an, damit wir eure Zahlung zuordnen können.
-
-Den Teilnahmebeitrag in Höhe von 20 Euro bitte entweder per PayPal an tharen.erik@gmail.com mit deinem Token senden, oder in der Physik INI (EW 023) im Zeitraum vom 7.-10.10.19 jeweils von 14:00 bis 18:00 Uhr in Bar bezahlen.
-
-Auf Anfrage (an tharen.erik@gmail.com) kann auch per Überweisung bezahlt werden.
 
 ## Kontakt
 Um uns zu erreichen, schickt einfach [eine Mail an Nele](mailto:labrenz@math.tu-berlin.de).
