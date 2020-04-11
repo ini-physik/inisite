@@ -203,6 +203,19 @@ title_color: "#dd5d5d"
                 </span>
         </div>
         <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
+                <img src="/static/img/iniyourface/doro.png" alt="Doro" class="img-circle iyf-heads center-block">
+                <h3>Doro</h3>
+                <span>
+                        <ul>
+                                <li>WiMi Kommunikation</li>
+                                <li>Mittelbau Initiative</li>
+                                <li>Prüfungsausschuss</li>
+                                <li>Ausbildungskommission</li>
+                                <li>Fakultätsrat</li>
+                        </ul>
+                </span>
+        </div>
+        <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
                 <img src="/static/img/iniyourface/basti.jpg" alt="Sebastian Praetz" class="img-circle iyf-heads center-block">
                 <h3>Sebastian Praetz</h3>
                 <span>
@@ -220,6 +233,8 @@ title_color: "#dd5d5d"
                         </ul>
                 </span>
         </div> 
+</div>
+<div class="row">  
         <div class="col-md-3 col-sm-6 col-xs-12 iniyourface">
                 <img src="/static/img/iniyourface/rafael.jpg" alt="Rafael Leonard" class="img-circle iyf-heads center-block">
                 <h3>Holger Eisele</h3>
