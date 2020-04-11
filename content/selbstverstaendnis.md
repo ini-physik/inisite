@@ -16,4 +16,4 @@ Die Fachinitiative Physik vertritt die Interessen und Wünsche der Physik und Ni
 * Archivierung und Ausgabe von Prüfungsprotokollen
 * Austausch mit anderen Fachschaften auf Uni-, Landes- und Bundesebene
 
-Um über Sitzungstermine und andere Ereignisse informiert zu werden, trage dich in die [Mailingliste der ini](http://lists.physik.tu-berlin.de/mailman/listinfo/diefreundlicheini) ein.
+Um über Sitzungstermine und andere Ereignisse informiert zu werden, trage dich in die [Mailingliste der ini](https://lists.physik.tu-berlin.de/mailman/listinfo/diefreundlicheini) ein.
