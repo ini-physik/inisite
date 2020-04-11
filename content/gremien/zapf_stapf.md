@@ -13,4 +13,4 @@ der die ZaPF nach außen und zwischen den ZaPFen vertritt.
 
 Die ZaPF unterhält als Arbeitsplattform ein Wiki, das vor allem als Arbeitsplattform 
 während der ZaPFen dient und umfangreich über die Inhalte der ZaPF informiert. Auf der Seite 
-[ZaPF-Wiki](https://vmp.ethz.ch/zapfwiki/index.php/Hauptseite) finden sich mehr Informationen dazu.
+[ZaPF-Wiki](https://zapf.wiki/) finden sich mehr Informationen dazu.
