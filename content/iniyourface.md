@@ -216,7 +216,7 @@ title_color: "#dd5d5d"
                 <h3>Philipp Stammer</h3>
                 <span>
                         <ul>
-                                <li>Institutsrat des Institutes für Festkörperphysik</li>
+                                <li>Institutsrat des Institutes für Theoretische Physik</li>
                         </ul>
                 </span>
         </div> 
