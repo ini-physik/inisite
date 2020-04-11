@@ -50,6 +50,14 @@
 	margin-bottom: 50px;
 }
 
+.question {
+	width: 100%;
+	height: 3em;
+	background: none;
+	border: none;
+	border-bottom: 3px solid #df5cda;
+}
+
 #protocol {
 	background-color: #8adf5c;
 	padding-top: 50px;
