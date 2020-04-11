@@ -7,7 +7,7 @@ Das Atomic ist das selbstverwaltete Café der Physikstudierenden. Jeder ist will
 [atomic@lists.physik.tu-berlin.de](atomic@lists.physik.tu-berlin.de)
 Du kannst dich gerne [hier](https:\\lists.physik.tu-berlin.de/mailman/listinfo/atomic) in die Liste eintragen!
 
-##Geschichte
+## Geschichte
 
 Das Atomic Café wurde vor einigen Jahren bei einer Nacht-und-Nebel-Besetzungs-Aktion ins Leben gerufen.  Damals besetzten einige mutige Studierende im Zuge irgendeines evolutionären Streiks die PN-061 und -2, die die Zentrale Raumvergabe dann in Anbetracht des geballten Durchsetzungsvermögens dieser Eroberer freundlicherweise an die Studierendenschaft abtreten musste.
 
