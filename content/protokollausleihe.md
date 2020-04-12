@@ -9,6 +9,9 @@ Die Protokollausleihe findet, aufgrund der dadurch verbesserten Rücklaufquote, 
 
 ## Öffnungszeiten
 
+Aufgrund der aktuellen Corona-Krise und der damit verbundenen Schließung der TU kann natürlich zu Zeit keine Protokollausleihe in Papierform stattfinden.
+Die Ausleihe ist jedoch weiter möglich, wenn ihr Protokolle benötigt wendet euch einfach an [**protokollausleihe@physik.tu-berlin.de**](mailto:protokollausleihe@physik.tu-berlin.de).
+
 Die Ausleihe findet in der Fachbereichsinitiative-Physik EW 023, neben dem Studentencafé Atomic, zu folgenden Zeiten statt:
 
 **Dienstags 12:00-13:00**
