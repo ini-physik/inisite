@@ -7,7 +7,7 @@ Das Studierendenparlament (kurz: StuPa) ist eines der Organe der Studierendensch
 
 Es nimmt als Organ der Studierendenschaft ein politisches Mandat wahr. Dazu soll es an der Erfüllung der Aufgaben der Hochschulen, insbesondere durch Stellungnahmen zu hochschul- oder wissenschaftspolitischen Fragen, mitwirken und die Meinungsbildung in der Gruppe der Studierenden ermöglichen, das heißt, es kann bspw. Resolutionen zur Tagespolitik verabschieden. 
 
-Außerdem benennt das StuPa die Referenten des AStA, dem Allgemeinen Studierendenauschuss. Dieser Besteht zur Zeit aus 12 Referaten, die die Interessen der Studierendenschaft innerhalb der Hochschule und nach außen vertreten.
+Außerdem benennt das StuPa die Referierenden des AStA, dem Allgemeinen Studierendenauschuss. Dieser Besteht zur Zeit aus 12 Referaten, die die Interessen der Studierendenschaft innerhalb der Hochschule und nach außen vertreten.
 
 Das StuPa beschließt auch über so ziemlich alles rund ums Thema Semesterticket. Die Verhandlungen mit dem VBB führt natürlich nicht das gesamte 60köpfige StuPa, sondern der Fachausschuss Verkehrskonzept und Semesterticket. 
 
