@@ -11,6 +11,9 @@ js:
 
 {{< video src="http://130.149.50.103:8080/hls/stream.m3u8" >}}
 
+# Fragen?
+{{< question id="fragen" placeholder="hier rein!" >}}
+
 # Warum hier?
 
 Wir haben uns kurzfristig entschieden, uns aus dem Angebot der Studienfachberatung zurückzuziehen, weil wir die Verwendung von Zoom nicht unterstützen wollen. Wenn ihr mehr wissen wollt, könnt ihr das [hier](/aktuelles) nachlesen.
