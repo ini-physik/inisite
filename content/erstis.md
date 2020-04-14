@@ -12,7 +12,7 @@ js:
 {{< video src="http://130.149.50.103:8080/hls/stream.m3u8" >}}
 
 # Fragen?
-{{< question id="fragen" placeholder="hier rein!" >}}
+{{< question id="fragenbox" placeholder="hier rein!" >}}
 
 # Warum hier?
 
