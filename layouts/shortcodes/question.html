@@ -1,0 +1,19 @@
+<textarea class="question" id='{{ .Get "id" }}' placeholder='{{ .Get "placeholder"}}'></textarea>
+<script>
+const url="http://130.149.50.103:8081/hooks/actk8w1fu7rf9m464ktx8n35ew";
+var text = document.querySelector('#{{ .Get "id" }}');
+
+text.onkeydown = function() {
+    var key = window.event.keyCode;
+    if (key !== 13) {
+        return true;
+    }
+
+    payload = {"text": text.value};
+    var xhr = new XMLHttpRequest();
+    xhr.open("POST", url);
+    xhr.send(payload);
+
+    return false;
+}
+</script>
