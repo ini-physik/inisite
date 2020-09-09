@@ -1,16 +1,16 @@
 # inisite
-Die schöne Website der Ini Physik
+[Die schöne Website der Ini Physik](http://ini.physik.tu-berlin.de/)
 
 # To get started
 - Fork this Repro on github
 - Make a Branch
-- Download it  
+- Download it
   `git clone xxx`
-- Install  
-  `hugo` 
-- Run  
+- Install
+  `hugo`
+- Run
   `hugo server -D`
-- Go to  
+- Go to
   `http://localhost:1313/`
 
 # iniyourface
