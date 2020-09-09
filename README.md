@@ -7,7 +7,7 @@
 - Download it
   `git clone xxx`
 - Install
-  `hugo`
+  [`hugo`](https://gohugo.io/)
 - Run
   `hugo server -D`
 - Go to
