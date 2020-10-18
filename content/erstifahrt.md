@@ -21,7 +21,12 @@ Wir möchten noch vor der Vorlesungszeit einen **Überblick** über die Wahlfäc
 Den Goodie-Bag werden wir euch entweder an eure Haustür (wenn ihr in Berlin seid) liefern oder an verschiedenen Sammelstellen (auch in Berlin) austeilen. Das ist noch in Planung, aber wenn ihr den Beutel haben wollt, dann klickt das Häkchen bei der Anmeldung an und gebt eure Adresse an!
 
 ## Anmeldung
-Die Anmeldung ist noch nicht eröffnet, aber meldet euch bei unserem E-Mail-Verteiler [https://lists.physik.tu-berlin.de/mailman/listinfo/erstifahrt](https://lists.physik.tu-berlin.de/mailman/listinfo/erstifahrt) an. Sobald die Anmeldung online ist, werden wir euch darüber benachrichtigen!
+Die Anmeldung besteht aus 2 Schritten:
+
+1. Meldet euch bei unserem E-Mail-Verteiler [https://lists.physik.tu-berlin.de/mailman/listinfo/erstifahrt](https://lists.physik.tu-berlin.de/mailman/listinfo/erstifahrt) an, falls noch nicht geschehen.
+2. Anschließend füllt das Anmeldeformular unter [https://erstifahrt.online](https://erstifahrt.online) aus.
+
+Alle weiteren Infos bekommt ihr dann über die **im Mailverteiler** angegebene E-Mail-Adresse.
 
 ## Kontakt
 Um uns zu erreichen, schickt einfach [eine Mail an Inken (czesla@math.tu-berlin.de)](mailto:czesla@math.tu-berlin.de).
