@@ -10,6 +10,7 @@ Bei der Erstifahrt habt ihr die Gelegenheit, euch gegenseitig **kennenzulernen**
 * **Wo:** teilweise online, vieles auch offline in Berlin
 * **Was:** nützliche Vorträge für euer Studium, Sportprogramm, Austausch und Vernetzung mit anderen Studis, Spaß
 * **Wie:** unter Einhaltung der 2G-Regel und mit Hygienekonzept
+* **Anmeldung ist ab sofort offen!**
 
 **Leider ist es uns dieses Jahr nicht möglich euch eine "richtige" Erstifahrt zu bieten**. Damit ihr trotzdem die Gelegenheit habt, euch gegenseitig kennenzulernen und wir gemeinsam Spaß haben können, werden wir stattdessen ein hybrides Erstiwochende durchführen.
 
@@ -20,11 +21,14 @@ Alle Veranstaltungen werden entweder online oder an einem gut erreichbaren öffe
 
 ## Anmeldung
 
-Die Anmeldeformalitäten werden bald hier und über den E-Mail-Verteiler bekanntgegeben.
+Die Anmeldung ist ab sofort möglich und besteht aus zwei Schritten:
 
-Bitte meldet euch unbedingt beim E-Mail-Verteiler an, da wir euch (nur) darüber weitere Informationen zur Erstifahrt zukommen lassen werden.
+1. Bitte meldet euch unbedingt beim **E-Mail-Verteiler** an, da wir euch (nur) darüber weitere Informationen zur Erstifahrt zukommen lassen werden.
+2. Außerdem müsst ihr euch im **Anmeldeformular** eintragen.
 
-Um euch beim E-Mail-Verteiler anzumelden, geht auf [https://lists.physik.tu-berlin.de/mailman/listinfo/erstifahrt](https://lists.physik.tu-berlin.de/mailman/listinfo/erstifahrt), tragt unter "Abonnieren von Erstifahrt" eure E-Mail-Adresse ein und klickt auf "Abonnieren".
+Um euch beim **E-Mail-Verteiler** anzumelden, geht auf [https://lists.physik.tu-berlin.de/mailman/listinfo/erstifahrt](https://lists.physik.tu-berlin.de/mailman/listinfo/erstifahrt), tragt unter "Abonnieren von Erstifahrt" eure E-Mail-Adresse ein und klickt auf "Abonnieren".
+
+Das **Anmeldeformular** findet ihr unter [https://erstifahrt.site](https://erstifahrt.site).
 
 ## Kontakt
 Um uns zu erreichen, schickt einfach [eine Mail an Inken (i.czesla@campus.tu-berlin.de)](mailto:i.czesla@campus.tu-berlin.de).
