@@ -21,7 +21,7 @@
 			  </a>
 			  <ul class="dropdown-menu" role="menu">
 				{{ range $key, $value := .Site.Taxonomies.groups.gremien.Pages }}
-				<li hugo-nav="{{$value.RelPermalink}}"><a href="/gremien/#{{$value.RelPermalink}}"> {{ $value.LinkTitle }} </a> </li>
+				<li hugo-nav="{{$value.RelPermalink}}"><a href="{{$value.RelPermalink}}"> {{ $value.LinkTitle }} </a> </li>
 				{{ end }}
 			  </ul>
 			</li>
