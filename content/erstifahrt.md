@@ -1,16 +1,16 @@
 ---
-Title:	"Erstifahrt 2022"
+Title:	"Erstifahrt 2023"
 title_color:	"#DF01D7"
 ---
 
-Bei der Erstifahrt habt ihr die Gelegenheit, euch gegenseitig **kennenzulernen** und überaus nützliche Sachen fürs Studium zu **lernen**. Wir möchten euch noch vor der Vorlesungszeit einen **Überblick** über die Wahlfächer und Anfängerpraktika verschaffen und eine Einführung in **Programme** wie z.B. LaTeX geben, da ihr diese bereits ab dem Studienbeginn brauchen werdet. Ein Hauptaspekt bleibt aber das Kennenlernen **in gemütlicher Atmosphäre**.
+Bei der Erstifahrt habt ihr die Gelegenheit, euch gegenseitig **kennenzulernen** und überaus nützliche Sachen fürs Studium zu **lernen**. Wir möchten euch noch vor der Vorlesungszeit einen **Überblick** über die Wahlfächer und Anfängerpraktika verschaffen und **Programme** wie z.B. LaTeX vorstellen, die ihr  bereits ab dem Studienbeginn brauchen werdet. Ein Hauptaspekt bleibt aber das Kennenlernen **in gemütlicher Atmosphäre**.
 
 ## Die wichtigsten Fakten
-* **Wann:** Freitag, 14.10. bis Sonntag, 16.10.2022
-* **Wo:** [Jugenddorf am Müggelsee](https://www.djo-bildungswerk.de/gaestehaeuser/jugenddorf-am-mueggelsee/) in Berlin-Rahnsdorf
-* **Was:** nützliche Workshops für euer Studium, Sportprogramm, Austausch und Vernetzung mit anderen Studis, Spaß
-* **Wie:** Schnelltest bei Anreise, Masken im Innenraum empfohlen
-* **Preis:** 20 Euro
+* **Wann:** Freitag, 13.10. bis Sonntag, 15.10.2023 (Physiker\*innen reisen nach der Einführungsveranstaltung Physik an.)
+* **Wo:** [KiEZ Inselparadies](https://inselparadies-petzow.de/unser-kiez/lageplan) in Petzow/Werder (Havel)
+* **Was:** nützliche Workshops für euer Studium, Sport- und Spielprogramm, Austausch und Vernetzung mit anderen Studis, Spaß
+<!-- * **Wie:** Schnelltest bei Anreise, Masken im Innenraum empfohlen -->
+* **Preis:** TBA, unter 40 €
 
 **Tragt euch in den [E-Mail-Verteiler](https://lists.physik.tu-berlin.de/mailman/listinfo/erstifahrt) ein**, damit wir euch mit den aktuellsten Informationen versorgen können!
 
@@ -19,18 +19,20 @@ Bei der Erstifahrt habt ihr die Gelegenheit, euch gegenseitig **kennenzulernen**
 
 Für die Anmeldung müsst ihr zwei Schritte durchführen.
 
-<ol>
-<li>Meldet euch unbedingt beim E-Mail-Verteiler an, da wir euch nur darüber aktuelle Informationen zur Erstifahrt zukommen lassen können. Geht dazu auf [https://lists.physik.tu-berlin.de/mailman/listinfo/erstifahrt](https://lists.physik.tu-berlin.de/mailman/listinfo/erstifahrt), tragt unter "Abonnieren von Erstifahrt" eure E-Mail-Adresse ein und klickt auf "Abonnieren".</li>
-<li>Meldet euch unter <a href="https://erstifahrt-physik.de">erstifahrt-physik.de</a> verbindlich an. Dort findet ihr auch Informationen zur Bezahlung.</li>
-</ol>
+1. Meldet euch unbedingt beim E-Mail-Verteiler an, da wir euch nur darüber aktuelle Informationen zur Erstifahrt zukommen lassen können. Geht dazu auf [https://lists.physik.tu-berlin.de/mailman/listinfo/erstifahrt](https://lists.physik.tu-berlin.de/mailman/listinfo/erstifahrt), tragt unter "Abonnieren von Erstifahrt" eure E-Mail-Adresse ein und klickt auf "Abonnieren".
+2. Meldet euch unter [erstifahrt-physik.de](https://erstifahrt-physik.de) verbindlich an. Dort findet ihr auch Informationen zur Bezahlung.
 
 ## Anfahrt
-Das [Jugenddorf am Müggelsee](https://www.openstreetmap.org/directions?engine=fossgis_osrm_foot&route=52.44765%2C13.67115%3B52.44770%2C13.66713#map=16/52.4495/13.6709) erreicht ihr am besten mit der Straßenbahnlinie 61 (Haltestelle ["Licht- und Luftbad Müggelsee"](https://www.bvg.de/de/verbindungen/verbindungssuche?SID=A=1@O=S+U%2520Zoologischer%2520Garten%2520Bhf%2520(Berlin)@X=13332711@Y=52506919@U=86@L=900023201@B=1@p=1661428334@&ZID=A=1@O=Licht-%2520und%2520Luftbad%2520M%25C3%25BCggelsee%2520(Berlin)@X=13671173@Y=52447284@U=86@L=900183513@B=1@p=1661428334@&timeSel=arrive&time=11:50&date=14.10.2022&start=1&products=127)), z.B. vom S-Bahnhof Friedrichshagen (S3) aus.
 
-Ihr solltet am Freitag spätestens mit der Tram 61, die um 11:47 ankommt anreisen. Bei Anreise werden von uns Corona-Selbsttests gestellt. Die Durchführung dieser Tests ist verpflichtend, um den gegenseitigen Schutz sicherzustellen.
+An der TU gibt es ab diesem Semester kein Semesterticket mehr. Für die Anfahrt benötigt ihr also ein Ticket des Tarifbereichs ABC. Dieses müsst ihr euch selber besorgen. Am besten besorgt ihr euch im Voraus ein Deutschlandticket, das lohnt sich für die meisten, da in Berlin alle Ziele mit den Öffentlichen erreichbar sind.
 
-### Fahrradtour
-Für die Sportbegeisterten unter euch gibt es eine Fahrradgruppe, die ab Ostkreuz ca. 20 km mit dem Fahrrad zum Jugenddorf fährt. Treffpunkt dafür ist Freitag, 10:00 am S-Bahnhof Ostkreuz, Südausgang ([Karte](https://www.openstreetmap.org/node/8625046373)). Falls ihr dort mitfahren wollt, kreuzt bei der Anmeldung das entsprechende Feld an.
+Dank des enormen Koordinationsvermögens der Studienfachberatung Physik findet die Anreise diesmal getrennt nach Studiengängen statt.
+
+* **Physik**-Studierende reisen gemeinsam nach der Einführungsveranstaltung an. Treffpunkt ist der Raum der Veranstaltung, direkt nach deren Ende (voraussichtlich 16:00). Von dort werden euch liebe Menschen aus der Orga zum Bahnhof Zoo führen, mit euch um 16:47 in den RE 1 einzusteigen. Um 17:07 steigt ihr in Potsdam Hbf in den Bus 607 nach Petzow (Ab 17:19) um. Um 17:55 steigt ihr in Petzow Schloßpark, Werder (Havel) aus. Sollte die Einführungsveranstaltung länger dauern als geplant, werden euch die Orgamenschen mit einem Alternativplan zur Seite stehen.
+* **NidI**[^2]-Studierende reisen wie ursprünglich geplant schon morgens an. Treffpunkt ist 10:30 am Bahnhof Berlin Zoologischer Garten, Gleis 3. Dort steigt ihr um 10:47 in den RE 1. Um 11:07 steigt ihr in Potsdam Hbf in den Bus 607 nach Petzow (Ab 11:19) um. Um 11:55 steigt ihr in Petzow Schloßpark, Werder (Havel) aus.
+
+<!-- ### Fahrradtour
+Für die Sportbegeisterten unter euch gibt es eine Fahrradgruppe, die ab Ostkreuz ca. 20 km mit dem Fahrrad zum Jugenddorf fährt. Treffpunkt dafür ist Freitag, 10:00 am S-Bahnhof Ostkreuz, Südausgang ([Karte](https://www.openstreetmap.org/node/8625046373)). Falls ihr dort mitfahren wollt, kreuzt bei der Anmeldung das entsprechende Feld an. -->
 
 ## Kontakt
 Um uns zu erreichen, schickt einfach [eine Mail an Timo (t.prinz@tu-berlin.de)](mailto:t.prinz@tu-berlin.de).
@@ -39,8 +41,8 @@ Wenn ihr irgendwelche Fragen habt, stellt sie gerne!
 ## Zielgruppe
 Die Veranstaltung wird von Physik- und NidI-Studierenden gemeinsam organisiert und richtet sich im Wesentlichen an
 
-* die neuimmatrikulierten Bachelor-Physikstudierenden (also alle, die Physik im Wintersemester 2022/23 zu studieren beginnen) sowie
-* NidI-Erstis: Studierende aus dem [Studiengang Naturwissenschaften in der Informationsgesellschaft](http://www.galilea.tu-berlin.de/index.php?id=155&L=0 "NidI") (aufgrund der Nähe der Fächer und gemeinsamer Vorlesungen/Praktika)
+* die neuimmatrikulierten Bachelor-Physikstudierenden (also alle, die Physik im Wintersemester 2023/24 zu studieren beginnen) sowie
+* NidI-Erstis: Studierende aus dem [Studiengang Naturwissenschaften in der Informationsgesellschaft](https://www.tu.berlin/innocampus/nidi "NidI") (aufgrund der Nähe der Fächer und gemeinsamer Vorlesungen/Praktika)
 
 Außerdem eingeladen sind aber:
 
@@ -50,17 +52,17 @@ Außerdem eingeladen sind aber:
 ## Programm
 Im Laufe der Erstifahrt wird es voraussichtlich folgende Workshops geben:
 
-* Was ist eigentlich Uni?
+* Was ist eigentlich Unileben?
 * Studienfinanzierung
 * Frauen in der Forschung, Gleichstellung
 * Physikpraktika (Physikalische Anfängerpraktika; [Grundpraktikum](http://www.ioap.tu-berlin.de/grundpraktikum/) und [Projektlabor](http://www.pl-physik.tu-berlin.de/menue/home/)), CoMa (Computerorientierte Mathematik, Pflicht für NidIs[^2]) und Wahlfächer
 * Unsere Uni soll besser werden: Ini & Engagement in der Hochschule
-* Ausland und Internationales
 * Plattformen und IT-Systeme der TU
-* LaTeX: Ein wissenschaftliches Textsatzsystem
-* Messdatenverarbeitung und -visualisierung mit Python
-* Einführung in UNIX-Systeme
-* Einfühtung in die Versionierung mit git
+* Was mache ich in den ersten Wochen meines Studiums?
+* Welche IT-tools verwende ich im Studium? Darunter fallen:
+  * LaTeX: Ein wissenschaftliches Textsatzsystem
+  * Messdatenverarbeitung und -visualisierung mit Python
+* Einführung in UNIX-Systeme und die Versionierung mit git
 * Alle Fragen die aufgekommen sind oder noch aufkommen!
 
 Zudem gibt es Party, Spiele und/oder ähnliches!
@@ -69,8 +71,7 @@ Zudem gibt es Party, Spiele und/oder ähnliches!
 In einigen Workshops wollen wir euch Software vorstellen. Dazu solltet ihr die Programme vorher auf einem Laptop, den ihr mitbringt, installiert haben.
 
 ### LaTeX
-LaTeX-Dokumente kann man entweder in online-Editoren wie Overleaf oder mit auf dem eigenen Computer installierten Programmen erstellen.
-Also [legt euch einen Overleaf-Account an](https://de.overleaf.com/project) **und/oder** installiert eine LaTeX-Distribution und einen guten Texteditor (kein Notepad/Wordpad/Word).[^3]
+LaTeX-Dokumente kann man entweder in online-Editoren wie Overleaf oder mit auf dem eigenen Computer installierten Programmen erstellen. Leider gibt es in ~~Brandenburg~~ Petzow kein stabiles Internet, also <!--[legt euch einen Overleaf-Account an](https://de.overleaf.com/project) **und/oder**--> installiert eine LaTeX-Distribution und einen guten Texteditor (kein Notepad/Wordpad/Word).[^3]
 
 #### Empfohlene LaTeX-Distributionen:
 * Für Windows: [z.B. MikTex herunterladen und installieren](http://miktex.org/download "MikTex") 
@@ -86,10 +87,10 @@ Also [legt euch einen Overleaf-Account an](https://de.overleaf.com/project) **un
 [Gibt es hier](https://git-scm.com/downloads "git Download-Seite") oder in der Paketverwaltung eurer Linux/BSD-Distribution.
 
 ## Was ihr sonst noch wissen solltet
-* Für Verpflegung ist gesorgt, am Freitag gibt es Picknick und warmes Abendessen, Samstag Vollverpflegung, Sonntag Frühstück und Picknick.
+* Für Verpflegung ist gesorgt, am Freitag gibt es Picknick und Abendbrot, Samstag Vollverpflegung, Sonntag Frühstück und Picknick.
 * Falls ihr zum Zeitpunkt der Erstifahrt noch minderjährig seid, müssen eure Eltern eine [Einverständniserklärung](https://erstifahrt-physik.de/einverst%C3%A4ndnis.pdf) ausfüllen.
 * Falls eure finanzielle Situation es nicht zulässt, den Teilnahmebeitrag zu leisten, meldet euch bitte bei uns. Wir möchten es allen ermöglichen, an der Erstifahrt teilzunehmen.
-* Abfahrt am Sonntag ist voraussichtlich gegen 14:00.
+* Abfahrt am Sonntag ist voraussichtlich gegen 16:00.
 
 [^2]: NidIs: Siehe [Zielgruppe](#Zielgruppe "Zielgruppe")
 
