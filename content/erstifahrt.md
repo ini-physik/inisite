@@ -73,6 +73,8 @@ In einigen Workshops wollen wir euch Software vorstellen. Dazu solltet ihr die P
 ### LaTeX
 LaTeX-Dokumente kann man entweder in online-Editoren wie Overleaf oder mit auf dem eigenen Computer installierten Programmen erstellen. Leider gibt es in ~~Brandenburg~~ Petzow kein stabiles Internet, also <!--[legt euch einen Overleaf-Account an](https://de.overleaf.com/project) **und/oder**--> installiert eine LaTeX-Distribution und einen guten Texteditor (kein Notepad/Wordpad/Word).[^3]
 
+Ladet euch bitte außerdem die Vorlagen runter und entpackt sie: [Latex.zip](https://erstifahrt-physik.de/Latex.zip).
+
 #### Empfohlene LaTeX-Distributionen:
 * Für Windows: [z.B. MikTex herunterladen und installieren](http://miktex.org/download "MikTex") 
 * Für Mac: [z.B. MacTex herunterladen und installieren](https://tug.org/mactex/mactex-download.html "MacTex")
